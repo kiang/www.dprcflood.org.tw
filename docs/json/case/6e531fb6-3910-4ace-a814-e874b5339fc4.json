@@ -1,0 +1,68 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "6e531fb6-3910-4ace-a814-e874b5339fc4",
+        "Org_Name": "經濟部水利署",
+        "Sources": "2",
+        "EMIS_No": "042024056993047",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "前金區",
+        "EMISTYPE": "地區積淹水",
+        "DATE": "\/Date(1721782020000)\/",
+        "LOCATION_DESCRIPTION": "高雄市前金區河東路165號",
+        "Described": "積水高度5公分",
+        "DEPTH": 5,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1682306400000)\/",
+        "Contact": null,
+        "X": 120.290811,
+        "Y": 22.622964,
+        "SITUATION_NOTE": "積水高度5公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721782020000)\/",
+        "MODIFY_DATE": "\/Date(1721782020000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/6e531fb6-3910-4ace-a814-e874b5339fc4.png",
+        "MinX": 120.290970440167,
+        "MaxX": 120.291082587088,
+        "MinY": 22.623117435726602,
+        "MaxY": 22.6232211830009
+    },
+    "GridId": 2312,
+    "Area": 75,
+    "Z_D": 1.56,
+    "EffectAddress": "",
+    "EffectAddressCount": 2,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 2,
+        "TotalArea": 75,
+        "TotalHouse30cmUp": 0,
+        "TotalArea30cmUp": 0,
+        "TotalHouse50cmUp": 0,
+        "TotalArea50cmUp": 0
+    },
+    "Land": [
+        {
+            "Id": "G",
+            "Area": 75
+        }
+    ]
+}

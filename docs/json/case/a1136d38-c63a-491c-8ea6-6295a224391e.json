@@ -1,0 +1,68 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "a1136d38-c63a-491c-8ea6-6295a224391e",
+        "Org_Name": "第六河川分署",
+        "Sources": "25",
+        "EMIS_No": "大埤路(自來水七區管理處)",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "鳥松區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721866323000)\/",
+        "LOCATION_DESCRIPTION": "自來水公司七區管理處門口警衛室旁牆壁",
+        "Described": "目前感測值0公分",
+        "DEPTH": 23,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721881923000)\/",
+        "Contact": null,
+        "X": 120.356811,
+        "Y": 22.653619,
+        "SITUATION_NOTE": "目前感測值0公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721866323000)\/",
+        "MODIFY_DATE": "\/Date(1721866323000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "7"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/a1136d38-c63a-491c-8ea6-6295a224391e.png",
+        "MinX": 120.35630396310401,
+        "MaxX": 120.357042232432,
+        "MinY": 22.6517945445147,
+        "MaxY": 22.6539319058625
+    },
+    "GridId": 3404,
+    "Area": 4325,
+    "Z_D": 16.990000000000002,
+    "EffectAddress": "",
+    "EffectAddressCount": 0,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 0,
+        "TotalArea": 4325,
+        "TotalHouse30cmUp": 0,
+        "TotalArea30cmUp": 3550,
+        "TotalHouse50cmUp": 0,
+        "TotalArea50cmUp": 1825
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 4325
+        }
+    ]
+}

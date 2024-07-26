@@ -1,0 +1,80 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "12723edb-d0f7-435a-a044-f9a2de1403c5",
+        "Org_Name": "第六河川分署",
+        "Sources": "2",
+        "EMIS_No": "042024057011175",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "鼓山區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721875200000)\/",
+        "LOCATION_DESCRIPTION": "高雄市鼓山區裕民路172巷",
+        "Described": "積水約70公分",
+        "DEPTH": 70,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721916000000)\/",
+        "Contact": null,
+        "X": 120.277263,
+        "Y": 22.650499,
+        "SITUATION_NOTE": "積水約70公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721875200000)\/",
+        "MODIFY_DATE": "\/Date(1721875200000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/12723edb-d0f7-435a-a044-f9a2de1403c5.png",
+        "MinX": 120.27618034258,
+        "MaxX": 120.27887927274399,
+        "MinY": 22.6497389533971,
+        "MaxY": 22.6518278579299
+    },
+    "GridId": 3259,
+    "Area": 34175,
+    "Z_D": 2.8200000000000003,
+    "EffectAddress": "",
+    "EffectAddressCount": 343,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 343,
+        "TotalArea": 34175,
+        "TotalHouse30cmUp": 291,
+        "TotalArea30cmUp": 28825,
+        "TotalHouse50cmUp": 194,
+        "TotalArea50cmUp": 19850
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 9275
+        },
+        {
+            "Id": "H",
+            "Area": 125
+        },
+        {
+            "Id": "G",
+            "Area": 22275
+        },
+        {
+            "Id": "L",
+            "Area": 2500
+        }
+    ]
+}

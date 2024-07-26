@@ -1,0 +1,68 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "3116ebc7-d1a8-43e6-9c18-5d556a5befee",
+        "Org_Name": "第六河川分署",
+        "Sources": "25",
+        "EMIS_No": "軍校路-蔚藍海岸社區",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "楠梓區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721855163000)\/",
+        "LOCATION_DESCRIPTION": "軍校路712巷蔚藍社區大門前交通號誌桿",
+        "Described": "目前感測值0公分",
+        "DEPTH": 40,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721882162000)\/",
+        "Contact": null,
+        "X": 120.292881,
+        "Y": 22.707999,
+        "SITUATION_NOTE": "目前感測值0公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721855163000)\/",
+        "MODIFY_DATE": "\/Date(1721855163000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "7"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/3116ebc7-d1a8-43e6-9c18-5d556a5befee.png",
+        "MinX": 120.29272414067,
+        "MaxX": 120.29307547906299,
+        "MinY": 22.7072455049475,
+        "MaxY": 22.708885491630298
+    },
+    "GridId": 4398,
+    "Area": 2075,
+    "Z_D": 16.33,
+    "EffectAddress": "",
+    "EffectAddressCount": 0,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 0,
+        "TotalArea": 2075,
+        "TotalHouse30cmUp": 0,
+        "TotalArea30cmUp": 1475,
+        "TotalHouse50cmUp": 0,
+        "TotalArea50cmUp": 325
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 2075
+        }
+    ]
+}

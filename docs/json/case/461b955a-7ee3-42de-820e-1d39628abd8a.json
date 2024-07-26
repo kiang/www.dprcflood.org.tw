@@ -1,0 +1,88 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "461b955a-7ee3-42de-820e-1d39628abd8a",
+        "Org_Name": "經濟部水利署",
+        "Sources": "2",
+        "EMIS_No": "042024057018823",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "仁武區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721898120000)\/",
+        "LOCATION_DESCRIPTION": "高雄市仁武區大智三街",
+        "Described": "積水至膝蓋",
+        "DEPTH": 40,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721915400000)\/",
+        "Contact": null,
+        "X": 120.339614,
+        "Y": 22.677354,
+        "SITUATION_NOTE": "積水至膝蓋",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721898120000)\/",
+        "MODIFY_DATE": "\/Date(1721898120000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/461b955a-7ee3-42de-820e-1d39628abd8a.png",
+        "MinX": 120.337061187599,
+        "MaxX": 120.340972885041,
+        "MinY": 22.6756511020574,
+        "MaxY": 22.6790575971056
+    },
+    "GridId": 3913,
+    "Area": 44675,
+    "Z_D": 12.31,
+    "EffectAddress": "",
+    "EffectAddressCount": 127,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 127,
+        "TotalArea": 44675,
+        "TotalHouse30cmUp": 93,
+        "TotalArea30cmUp": 34575,
+        "TotalHouse50cmUp": 33,
+        "TotalArea50cmUp": 10875
+    },
+    "Land": [
+        {
+            "Id": "L",
+            "Area": 7650
+        },
+        {
+            "Id": "E",
+            "Area": 12850
+        },
+        {
+            "Id": "G",
+            "Area": 20150
+        },
+        {
+            "Id": "C",
+            "Area": 1200
+        },
+        {
+            "Id": "D",
+            "Area": 50
+        },
+        {
+            "Id": "I",
+            "Area": 2775
+        }
+    ]
+}

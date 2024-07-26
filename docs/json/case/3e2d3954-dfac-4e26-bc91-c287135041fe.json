@@ -1,0 +1,96 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "3e2d3954-dfac-4e26-bc91-c287135041fe",
+        "Org_Name": "經濟部水利署",
+        "Sources": "2",
+        "EMIS_No": "042024057024875",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "梓官區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721911920000)\/",
+        "LOCATION_DESCRIPTION": "高雄市梓官區典寶里嘉展路附近(所有民宅淹水未退，區公所尚未補充物資)",
+        "Described": "積水約至大腿，梓官區典寶里嘉展路一帶民宅皆尚淹水至大腿未退，另請區公所協助物資補給",
+        "DEPTH": 70,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721917800000)\/",
+        "Contact": null,
+        "X": 120.264675,
+        "Y": 22.738306,
+        "SITUATION_NOTE": "積水約至大腿，梓官區典寶里嘉展路一帶民宅皆尚淹水至大腿未退，另請區公所協助物資補給",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721911920000)\/",
+        "MODIFY_DATE": "\/Date(1721911920000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/3e2d3954-dfac-4e26-bc91-c287135041fe.png",
+        "MinX": 120.260446658082,
+        "MaxX": 120.265277847054,
+        "MinY": 22.7355106828213,
+        "MaxY": 22.7385139972518
+    },
+    "GridId": 4905,
+    "Area": 69600,
+    "Z_D": 3.05,
+    "EffectAddress": "",
+    "EffectAddressCount": 182,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 182,
+        "TotalArea": 69600,
+        "TotalHouse30cmUp": 181,
+        "TotalArea30cmUp": 62900,
+        "TotalHouse50cmUp": 169,
+        "TotalArea50cmUp": 47950
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 8150
+        },
+        {
+            "Id": "L",
+            "Area": 3425
+        },
+        {
+            "Id": "G",
+            "Area": 35925
+        },
+        {
+            "Id": "C",
+            "Area": 8600
+        },
+        {
+            "Id": "H",
+            "Area": 75
+        },
+        {
+            "Id": "F",
+            "Area": 25
+        },
+        {
+            "Id": "B",
+            "Area": 11325
+        },
+        {
+            "Id": "I",
+            "Area": 2075
+        }
+    ]
+}

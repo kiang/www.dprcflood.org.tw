@@ -1,0 +1,88 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "fb4d56ea-9e63-4856-b88d-4295348fc04a",
+        "Org_Name": "經濟部水利署",
+        "Sources": "2",
+        "EMIS_No": "042024057019755",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "橋頭區",
+        "EMISTYPE": "地區積淹水",
+        "DATE": "\/Date(1721900100000)\/",
+        "LOCATION_DESCRIPTION": "高雄市橋頭區芋林路6-4號",
+        "Described": "芋林路至芋寮路一帶積水約30-40公分，民眾出入有困難",
+        "DEPTH": 40,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721914800000)\/",
+        "Contact": null,
+        "X": 120.286311,
+        "Y": 22.760632,
+        "SITUATION_NOTE": "芋林路至芋寮路一帶積水約30-40公分，民眾出入有困難",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721900100000)\/",
+        "MODIFY_DATE": "\/Date(1721900100000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/fb4d56ea-9e63-4856-b88d-4295348fc04a.png",
+        "MinX": 120.28290815040701,
+        "MaxX": 120.287899442225,
+        "MinY": 22.7591494468223,
+        "MaxY": 22.7637566013118
+    },
+    "GridId": 5430,
+    "Area": 98925,
+    "Z_D": 5.4,
+    "EffectAddress": "",
+    "EffectAddressCount": 249,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 249,
+        "TotalArea": 98925,
+        "TotalHouse30cmUp": 221,
+        "TotalArea30cmUp": 90600,
+        "TotalHouse50cmUp": 153,
+        "TotalArea50cmUp": 66925
+    },
+    "Land": [
+        {
+            "Id": "C",
+            "Area": 13225
+        },
+        {
+            "Id": "G",
+            "Area": 65875
+        },
+        {
+            "Id": "E",
+            "Area": 11650
+        },
+        {
+            "Id": "A",
+            "Area": 2750
+        },
+        {
+            "Id": "L",
+            "Area": 5050
+        },
+        {
+            "Id": "H",
+            "Area": 375
+        }
+    ]
+}

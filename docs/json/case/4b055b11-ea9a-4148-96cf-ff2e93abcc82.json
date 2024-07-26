@@ -1,0 +1,92 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "4b055b11-ea9a-4148-96cf-ff2e93abcc82",
+        "Org_Name": "第六河川分署",
+        "Sources": "2",
+        "EMIS_No": "042024057026202",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "美濃區",
+        "EMISTYPE": "房屋積淹水",
+        "DATE": "\/Date(1721895000000)\/",
+        "LOCATION_DESCRIPTION": "高雄市美濃區福安里福義街18號",
+        "Described": "暴雨積水至小腿高度，目測約30公分(自家三合院無法排水)",
+        "DEPTH": 30,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721916600000)\/",
+        "Contact": null,
+        "X": 120.505258,
+        "Y": 22.881155,
+        "SITUATION_NOTE": "暴雨積水至小腿高度，目測約30公分(自家三合院無法排水)",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721895000000)\/",
+        "MODIFY_DATE": "\/Date(1721895000000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/4b055b11-ea9a-4148-96cf-ff2e93abcc82.png",
+        "MinX": 120.50279132363201,
+        "MaxX": 120.509384425115,
+        "MinY": 22.8775464981221,
+        "MaxY": 22.882670618178
+    },
+    "GridId": 9647,
+    "Area": 157675,
+    "Z_D": 41.89,
+    "EffectAddress": "",
+    "EffectAddressCount": 6,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 6,
+        "TotalArea": 157675,
+        "TotalHouse30cmUp": 3,
+        "TotalArea30cmUp": 148875,
+        "TotalHouse50cmUp": 1,
+        "TotalArea50cmUp": 128700
+    },
+    "Land": [
+        {
+            "Id": "F",
+            "Area": 4850
+        },
+        {
+            "Id": "G",
+            "Area": 7575
+        },
+        {
+            "Id": "C",
+            "Area": 85050
+        },
+        {
+            "Id": "E",
+            "Area": 7700
+        },
+        {
+            "Id": "B",
+            "Area": 41100
+        },
+        {
+            "Id": "L",
+            "Area": 925
+        },
+        {
+            "Id": "A",
+            "Area": 10475
+        }
+    ]
+}

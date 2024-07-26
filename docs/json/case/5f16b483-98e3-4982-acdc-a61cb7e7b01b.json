@@ -1,0 +1,80 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "5f16b483-98e3-4982-acdc-a61cb7e7b01b",
+        "Org_Name": "第六河川分署",
+        "Sources": "25",
+        "EMIS_No": "仁光路與仁雄路口",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "仁武區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721865905000)\/",
+        "LOCATION_DESCRIPTION": "東向仁雄路與仁勇西巷路口,小北百貨前路燈桿",
+        "Described": "目前感測值0公分",
+        "DEPTH": 95,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721894105000)\/",
+        "Contact": null,
+        "X": 120.35163,
+        "Y": 22.681052,
+        "SITUATION_NOTE": "目前感測值0公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721865905000)\/",
+        "MODIFY_DATE": "\/Date(1721865905000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "7"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/5f16b483-98e3-4982-acdc-a61cb7e7b01b.png",
+        "MinX": 120.35071925206101,
+        "MaxX": 120.35185429549999,
+        "MinY": 22.6804938049728,
+        "MaxY": 22.6812296707962
+    },
+    "GridId": 3935,
+    "Area": 2925,
+    "Z_D": 14.979999999999999,
+    "EffectAddress": "",
+    "EffectAddressCount": 0,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 0,
+        "TotalArea": 2925,
+        "TotalHouse30cmUp": 0,
+        "TotalArea30cmUp": 2875,
+        "TotalHouse50cmUp": 0,
+        "TotalArea50cmUp": 2775
+    },
+    "Land": [
+        {
+            "Id": "G",
+            "Area": 700
+        },
+        {
+            "Id": "E",
+            "Area": 2000
+        },
+        {
+            "Id": "I",
+            "Area": 200
+        },
+        {
+            "Id": "L",
+            "Area": 25
+        }
+    ]
+}

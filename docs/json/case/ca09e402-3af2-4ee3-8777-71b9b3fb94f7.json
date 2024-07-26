@@ -1,0 +1,80 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "ca09e402-3af2-4ee3-8777-71b9b3fb94f7",
+        "Org_Name": "第六河川分署",
+        "Sources": "2",
+        "EMIS_No": "162024057010829",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "前金區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721875140000)\/",
+        "LOCATION_DESCRIPTION": "高雄市前金區文西里中華四路(青年二路-五福三路段)",
+        "Described": "該路段慢車道水淹輪胎4分之3,請設警示標誌禁入，以免發生危險。",
+        "DEPTH": 30,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721914200000)\/",
+        "Contact": null,
+        "X": 120.299467,
+        "Y": 22.61933,
+        "SITUATION_NOTE": "該路段慢車道水淹輪胎4分之3,請設警示標誌禁入，以免發生危險。",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721875140000)\/",
+        "MODIFY_DATE": "\/Date(1721875140000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/ca09e402-3af2-4ee3-8777-71b9b3fb94f7.png",
+        "MinX": 120.295067222281,
+        "MaxX": 120.29961464074799,
+        "MinY": 22.618037700706402,
+        "MaxY": 22.6220337148444
+    },
+    "GridId": 2265,
+    "Area": 61525,
+    "Z_D": 2.36,
+    "EffectAddress": "",
+    "EffectAddressCount": 343,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 343,
+        "TotalArea": 61525,
+        "TotalHouse30cmUp": 216,
+        "TotalArea30cmUp": 40075,
+        "TotalHouse50cmUp": 53,
+        "TotalArea50cmUp": 10200
+    },
+    "Land": [
+        {
+            "Id": "G",
+            "Area": 29600
+        },
+        {
+            "Id": "E",
+            "Area": 31175
+        },
+        {
+            "Id": "L",
+            "Area": 725
+        },
+        {
+            "Id": "I",
+            "Area": 25
+        }
+    ]
+}

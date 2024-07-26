@@ -1,0 +1,88 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "4775049a-7d13-4d4a-b93e-382a2f1d07ad",
+        "Org_Name": "第六河川分署",
+        "Sources": "2",
+        "EMIS_No": "042024057026449",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "梓官區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721895000000)\/",
+        "LOCATION_DESCRIPTION": "高雄市梓官區中崙路148巷",
+        "Described": "巷內淹水到小腿肚",
+        "DEPTH": 30,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721916600000)\/",
+        "Contact": null,
+        "X": 120.270956,
+        "Y": 22.761628,
+        "SITUATION_NOTE": "巷內淹水到小腿肚",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721895000000)\/",
+        "MODIFY_DATE": "\/Date(1721895000000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/4775049a-7d13-4d4a-b93e-382a2f1d07ad.png",
+        "MinX": 120.269461586565,
+        "MaxX": 120.27104227346899,
+        "MinY": 22.7612371451043,
+        "MaxY": 22.7629687944614
+    },
+    "GridId": 5414,
+    "Area": 19400,
+    "Z_D": 4.7299999999999995,
+    "EffectAddress": "",
+    "EffectAddressCount": 32,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 32,
+        "TotalArea": 19400,
+        "TotalHouse30cmUp": 27,
+        "TotalArea30cmUp": 18425,
+        "TotalHouse50cmUp": 16,
+        "TotalArea50cmUp": 15500
+    },
+    "Land": [
+        {
+            "Id": "F",
+            "Area": 725
+        },
+        {
+            "Id": "C",
+            "Area": 11475
+        },
+        {
+            "Id": "A",
+            "Area": 1175
+        },
+        {
+            "Id": "L",
+            "Area": 2125
+        },
+        {
+            "Id": "G",
+            "Area": 3350
+        },
+        {
+            "Id": "E",
+            "Area": 550
+        }
+    ]
+}

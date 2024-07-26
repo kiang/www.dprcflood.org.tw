@@ -1,0 +1,68 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "513008ee-006d-47f1-afd6-5a10384d6bf4",
+        "Org_Name": "第六河川分署",
+        "Sources": "25",
+        "EMIS_No": "光復路二段與中山西路378巷口",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "鳳山區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721872202000)\/",
+        "LOCATION_DESCRIPTION": "光復路二段與中山西路378巷口轉角處",
+        "Described": "目前感測值0公分",
+        "DEPTH": 17,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721876402000)\/",
+        "Contact": null,
+        "X": 120.340974,
+        "Y": 22.629445,
+        "SITUATION_NOTE": "目前感測值0公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721872202000)\/",
+        "MODIFY_DATE": "\/Date(1721872202000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "7"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/513008ee-006d-47f1-afd6-5a10384d6bf4.png",
+        "MinX": 120.340745883647,
+        "MaxX": 120.34080939364699,
+        "MinY": 22.6294254297389,
+        "MaxY": 22.6294838097389
+    },
+    "GridId": 2532,
+    "Area": 25,
+    "Z_D": 9.57,
+    "EffectAddress": "",
+    "EffectAddressCount": 0,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 0,
+        "TotalArea": 25,
+        "TotalHouse30cmUp": 0,
+        "TotalArea30cmUp": 0,
+        "TotalHouse50cmUp": 0,
+        "TotalArea50cmUp": 0
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 25
+        }
+    ]
+}

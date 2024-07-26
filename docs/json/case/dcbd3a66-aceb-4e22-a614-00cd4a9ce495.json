@@ -1,0 +1,88 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "dcbd3a66-aceb-4e22-a614-00cd4a9ce495",
+        "Org_Name": "第六河川分署",
+        "Sources": "2",
+        "EMIS_No": "042024057010010",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "新興區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721871780000)\/",
+        "LOCATION_DESCRIPTION": "高雄市林森一路與八德一路〈快慢車道〉本轄林森一路267號至路口及八德一路357號至該路口",
+        "Described": "警方到場察看快慢車道有積淹水情形約15公分，汽車能通行，機車無法通行",
+        "DEPTH": 15,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721913600000)\/",
+        "Contact": null,
+        "X": 120.3067337,
+        "Y": 22.62992906,
+        "SITUATION_NOTE": "警方到場察看快慢車道有積淹水情形約15公分，汽車能通行，機車無法通行",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721871780000)\/",
+        "MODIFY_DATE": "\/Date(1721871780000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/dcbd3a66-aceb-4e22-a614-00cd4a9ce495.png",
+        "MinX": 120.301696865821,
+        "MaxX": 120.30788477552099,
+        "MinY": 22.627544363118602,
+        "MaxY": 22.6311754959718
+    },
+    "GridId": 2599,
+    "Area": 178450,
+    "Z_D": 4.0600000000000005,
+    "EffectAddress": "",
+    "EffectAddressCount": 1554,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 1554,
+        "TotalArea": 178450,
+        "TotalHouse30cmUp": 1423,
+        "TotalArea30cmUp": 165875,
+        "TotalHouse50cmUp": 905,
+        "TotalArea50cmUp": 121175
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 54900
+        },
+        {
+            "Id": "G",
+            "Area": 118200
+        },
+        {
+            "Id": "H",
+            "Area": 1500
+        },
+        {
+            "Id": "L",
+            "Area": 3025
+        },
+        {
+            "Id": "I",
+            "Area": 800
+        },
+        {
+            "Id": "C",
+            "Area": 25
+        }
+    ]
+}

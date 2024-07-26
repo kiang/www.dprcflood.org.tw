@@ -1,0 +1,80 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "cbfda8ab-37d2-4bc6-81ac-f1aec67ffe79",
+        "Org_Name": "第六河川分署",
+        "Sources": "2",
+        "EMIS_No": "042024057024754",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "美濃區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721899380000)\/",
+        "LOCATION_DESCRIPTION": "高雄市美濃區旗屏一路309號",
+        "Described": "積水已達1層樓高，希望派遣抽水機將水抽至一旁灌溉溝渠",
+        "DEPTH": 100,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721915400000)\/",
+        "Contact": null,
+        "X": 120.499204,
+        "Y": 22.870674,
+        "SITUATION_NOTE": "積水已達1層樓高，希望派遣抽水機將水抽至一旁灌溉溝渠",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721899380000)\/",
+        "MODIFY_DATE": "\/Date(1721899380000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/cbfda8ab-37d2-4bc6-81ac-f1aec67ffe79.png",
+        "MinX": 120.49799930257001,
+        "MaxX": 120.502841115403,
+        "MinY": 22.8685988000803,
+        "MaxY": 22.87397877209
+    },
+    "GridId": 9240,
+    "Area": 184875,
+    "Z_D": 41.139999,
+    "EffectAddress": "",
+    "EffectAddressCount": 1,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 1,
+        "TotalArea": 184875,
+        "TotalHouse30cmUp": 1,
+        "TotalArea30cmUp": 184175,
+        "TotalHouse50cmUp": 1,
+        "TotalArea50cmUp": 183625
+    },
+    "Land": [
+        {
+            "Id": "C",
+            "Area": 174200
+        },
+        {
+            "Id": "E",
+            "Area": 3875
+        },
+        {
+            "Id": "G",
+            "Area": 5425
+        },
+        {
+            "Id": "H",
+            "Area": 1375
+        }
+    ]
+}

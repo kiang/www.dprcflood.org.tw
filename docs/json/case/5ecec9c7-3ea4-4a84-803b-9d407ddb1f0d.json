@@ -1,0 +1,76 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "5ecec9c7-3ea4-4a84-803b-9d407ddb1f0d",
+        "Org_Name": "第六河川分署",
+        "Sources": "2",
+        "EMIS_No": "042024057010725",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "三民區",
+        "EMISTYPE": "房屋積淹水",
+        "DATE": "\/Date(1721874720000)\/",
+        "LOCATION_DESCRIPTION": "高雄市三民區孝順街505巷14弄1號淹水1.5公尺。內有老人在二樓待援。",
+        "Described": "三民區孝順街505巷14弄1號淹水1.5公尺。內有老人在二樓待援。",
+        "DEPTH": 150,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721917200000)\/",
+        "Contact": null,
+        "X": 120.312781,
+        "Y": 22.64836,
+        "SITUATION_NOTE": "三民區孝順街505巷14弄1號淹水1.5公尺。內有老人在二樓待援。",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721874720000)\/",
+        "MODIFY_DATE": "\/Date(1721874720000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/5ecec9c7-3ea4-4a84-803b-9d407ddb1f0d.png",
+        "MinX": 120.311560490058,
+        "MaxX": 120.312990589612,
+        "MinY": 22.6481372531281,
+        "MaxY": 22.6493654220617
+    },
+    "GridId": 3179,
+    "Area": 6575,
+    "Z_D": 5.109999999999999,
+    "EffectAddress": "",
+    "EffectAddressCount": 45,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 45,
+        "TotalArea": 6575,
+        "TotalHouse30cmUp": 45,
+        "TotalArea30cmUp": 6550,
+        "TotalHouse50cmUp": 45,
+        "TotalArea50cmUp": 6550
+    },
+    "Land": [
+        {
+            "Id": "F",
+            "Area": 1100
+        },
+        {
+            "Id": "E",
+            "Area": 1050
+        },
+        {
+            "Id": "G",
+            "Area": 4425
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "9fdd5ffd-027c-4560-acaa-752fbc526db1",
+        "Org_Name": "第六河川分署",
+        "Sources": "2",
+        "EMIS_No": "042024056993724",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "鼓山區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721789160000)\/",
+        "LOCATION_DESCRIPTION": "高雄市鼓山區哨船街1巷口因海水水位上漲，地勢較低，有部分淹水狀況",
+        "Described": "高雄市鼓山區哨船街1巷口因海水水位上漲，地勢較低，有部分淹水狀況",
+        "DEPTH": 10,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721798400000)\/",
+        "Contact": null,
+        "X": 120.266912,
+        "Y": 22.617695,
+        "SITUATION_NOTE": "高雄市鼓山區哨船街1巷口因海水水位上漲，地勢較低，有部分淹水狀況",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721789160000)\/",
+        "MODIFY_DATE": "\/Date(1721789160000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/9fdd5ffd-027c-4560-acaa-752fbc526db1.png",
+        "MinX": 120.26585543311,
+        "MaxX": 120.26965951803899,
+        "MinY": 22.616821617223202,
+        "MaxY": 22.620323985755
+    },
+    "GridId": 2221,
+    "Area": 43475,
+    "Z_D": 2.13,
+    "EffectAddress": "",
+    "EffectAddressCount": 204,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 204,
+        "TotalArea": 43475,
+        "TotalHouse30cmUp": 196,
+        "TotalArea30cmUp": 41275,
+        "TotalHouse50cmUp": 160,
+        "TotalArea50cmUp": 34750
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 11575
+        },
+        {
+            "Id": "I",
+            "Area": 6950
+        },
+        {
+            "Id": "G",
+            "Area": 17950
+        },
+        {
+            "Id": "L",
+            "Area": 2800
+        },
+        {
+            "Id": "D",
+            "Area": 75
+        },
+        {
+            "Id": "F",
+            "Area": 1025
+        },
+        {
+            "Id": "H",
+            "Area": 1825
+        },
+        {
+            "Id": "C",
+            "Area": 1275
+        }
+    ]
+}

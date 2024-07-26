@@ -1,0 +1,76 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "1953d578-c6c5-4b8e-8ac1-126be242cd40",
+        "Org_Name": "第六河川分署",
+        "Sources": "25",
+        "EMIS_No": "海成街口",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "燕巢區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721855100000)\/",
+        "LOCATION_DESCRIPTION": "海成街口",
+        "Described": "目前感測值0公分",
+        "DEPTH": 41,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721919600000)\/",
+        "Contact": null,
+        "X": 120.318245,
+        "Y": 22.772315,
+        "SITUATION_NOTE": "目前感測值0公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721855100000)\/",
+        "MODIFY_DATE": "\/Date(1721855100000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "7"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/1953d578-c6c5-4b8e-8ac1-126be242cd40.png",
+        "MinX": 120.317467860784,
+        "MaxX": 120.31865460254,
+        "MinY": 22.7718356926883,
+        "MaxY": 22.7730682265029
+    },
+    "GridId": 5682,
+    "Area": 3300,
+    "Z_D": 9.040000000000001,
+    "EffectAddress": "",
+    "EffectAddressCount": 0,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 0,
+        "TotalArea": 3300,
+        "TotalHouse30cmUp": 0,
+        "TotalArea30cmUp": 2775,
+        "TotalHouse50cmUp": 0,
+        "TotalArea50cmUp": 750
+    },
+    "Land": [
+        {
+            "Id": "C",
+            "Area": 525
+        },
+        {
+            "Id": "E",
+            "Area": 2075
+        },
+        {
+            "Id": "G",
+            "Area": 700
+        }
+    ]
+}

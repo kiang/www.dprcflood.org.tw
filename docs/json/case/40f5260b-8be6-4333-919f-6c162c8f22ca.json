@@ -1,0 +1,88 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "40f5260b-8be6-4333-919f-6c162c8f22ca",
+        "Org_Name": "第六河川分署",
+        "Sources": "25",
+        "EMIS_No": "建國路三段55巷口",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "鳳山區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721871600000)\/",
+        "LOCATION_DESCRIPTION": "建國路三段55巷口",
+        "Described": "目前感測值0公分",
+        "DEPTH": 14,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721878800000)\/",
+        "Contact": null,
+        "X": 120.35597,
+        "Y": 22.63637,
+        "SITUATION_NOTE": "目前感測值0公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721871600000)\/",
+        "MODIFY_DATE": "\/Date(1721871600000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "7"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/40f5260b-8be6-4333-919f-6c162c8f22ca.png",
+        "MinX": 120.354349820829,
+        "MaxX": 120.358009825504,
+        "MinY": 22.6321071213479,
+        "MaxY": 22.636541227690298
+    },
+    "GridId": 2775,
+    "Area": 84225,
+    "Z_D": 13.56,
+    "EffectAddress": "",
+    "EffectAddressCount": 121,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 121,
+        "TotalArea": 84225,
+        "TotalHouse30cmUp": 105,
+        "TotalArea30cmUp": 74750,
+        "TotalHouse50cmUp": 56,
+        "TotalArea50cmUp": 42525
+    },
+    "Land": [
+        {
+            "Id": "G",
+            "Area": 25525
+        },
+        {
+            "Id": "E",
+            "Area": 13725
+        },
+        {
+            "Id": "H",
+            "Area": 28025
+        },
+        {
+            "Id": "L",
+            "Area": 16825
+        },
+        {
+            "Id": "D",
+            "Area": 100
+        },
+        {
+            "Id": "I",
+            "Area": 25
+        }
+    ]
+}

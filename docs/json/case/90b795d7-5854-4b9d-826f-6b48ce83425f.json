@@ -1,0 +1,76 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "90b795d7-5854-4b9d-826f-6b48ce83425f",
+        "Org_Name": "第六河川分署",
+        "Sources": "25",
+        "EMIS_No": "澄觀路與仁怡街口",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "仁武區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721869500000)\/",
+        "LOCATION_DESCRIPTION": "澄觀路與仁怡街口",
+        "Described": "目前感測值0公分",
+        "DEPTH": 66,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721892480000)\/",
+        "Contact": null,
+        "X": 120.35146399999999,
+        "Y": 22.684822,
+        "SITUATION_NOTE": "目前感測值0公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721869500000)\/",
+        "MODIFY_DATE": "\/Date(1721869500000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "7"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/90b795d7-5854-4b9d-826f-6b48ce83425f.png",
+        "MinX": 120.350263883766,
+        "MaxX": 120.35222212926199,
+        "MinY": 22.6842810993201,
+        "MaxY": 22.6852945844889
+    },
+    "GridId": 4010,
+    "Area": 5250,
+    "Z_D": 14.85,
+    "EffectAddress": "",
+    "EffectAddressCount": 0,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 0,
+        "TotalArea": 5250,
+        "TotalHouse30cmUp": 0,
+        "TotalArea30cmUp": 5250,
+        "TotalHouse50cmUp": 0,
+        "TotalArea50cmUp": 5200
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 4725
+        },
+        {
+            "Id": "G",
+            "Area": 350
+        },
+        {
+            "Id": "L",
+            "Area": 175
+        }
+    ]
+}

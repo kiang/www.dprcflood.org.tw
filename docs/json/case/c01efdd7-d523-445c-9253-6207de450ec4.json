@@ -1,0 +1,88 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "c01efdd7-d523-445c-9253-6207de450ec4",
+        "Org_Name": "第六河川分署",
+        "Sources": "2",
+        "EMIS_No": "042024057009017",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "前鎮區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721869920000)\/",
+        "LOCATION_DESCRIPTION": "高雄市前鎮區中華路與凱旋路交叉口",
+        "Described": "前鎮區中華路與凱旋路交叉口淹水達35公分",
+        "DEPTH": 35,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721913600000)\/",
+        "Contact": null,
+        "X": 120.3146749,
+        "Y": 22.59269724,
+        "SITUATION_NOTE": "前鎮區中華路與凱旋路交叉口淹水達35公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721869920000)\/",
+        "MODIFY_DATE": "\/Date(1721869920000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/c01efdd7-d523-445c-9253-6207de450ec4.png",
+        "MinX": 120.312185826244,
+        "MaxX": 120.316667859039,
+        "MinY": 22.590659477352602,
+        "MaxY": 22.5934790258164
+    },
+    "GridId": 1589,
+    "Area": 45150,
+    "Z_D": 3.14,
+    "EffectAddress": "",
+    "EffectAddressCount": 380,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 380,
+        "TotalArea": 45150,
+        "TotalHouse30cmUp": 379,
+        "TotalArea30cmUp": 42525,
+        "TotalHouse50cmUp": 361,
+        "TotalArea50cmUp": 37750
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 10200
+        },
+        {
+            "Id": "I",
+            "Area": 5375
+        },
+        {
+            "Id": "G",
+            "Area": 26925
+        },
+        {
+            "Id": "L",
+            "Area": 750
+        },
+        {
+            "Id": "C",
+            "Area": 900
+        },
+        {
+            "Id": "H",
+            "Area": 1000
+        }
+    ]
+}

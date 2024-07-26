@@ -1,0 +1,76 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "fc47c637-37c2-4e31-aad7-614aeec9b243",
+        "Org_Name": "第六河川分署",
+        "Sources": "2",
+        "EMIS_No": "042024057009833",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "三民區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721872620000)\/",
+        "LOCATION_DESCRIPTION": "高雄市三民區鼎山街495巷",
+        "Described": "積水至腳踝",
+        "DEPTH": 20,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721915400000)\/",
+        "Contact": null,
+        "X": 120.319526,
+        "Y": 22.654024,
+        "SITUATION_NOTE": "積水至腳踝",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721872620000)\/",
+        "MODIFY_DATE": "\/Date(1721872620000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/fc47c637-37c2-4e31-aad7-614aeec9b243.png",
+        "MinX": 120.31902953844501,
+        "MaxX": 120.32180314058499,
+        "MinY": 22.6523702274858,
+        "MaxY": 22.656902821521598
+    },
+    "GridId": 3407,
+    "Area": 4050,
+    "Z_D": 7.11,
+    "EffectAddress": "",
+    "EffectAddressCount": 23,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 23,
+        "TotalArea": 4050,
+        "TotalHouse30cmUp": 0,
+        "TotalArea30cmUp": 400,
+        "TotalHouse50cmUp": 0,
+        "TotalArea50cmUp": 0
+    },
+    "Land": [
+        {
+            "Id": "H",
+            "Area": 900
+        },
+        {
+            "Id": "E",
+            "Area": 2175
+        },
+        {
+            "Id": "G",
+            "Area": 975
+        }
+    ]
+}

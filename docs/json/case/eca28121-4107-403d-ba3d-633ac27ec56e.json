@@ -1,0 +1,72 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "eca28121-4107-403d-ba3d-633ac27ec56e",
+        "Org_Name": "第六河川分署",
+        "Sources": "2",
+        "EMIS_No": "042024057008651",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "左營區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721869140000)\/",
+        "LOCATION_DESCRIPTION": "高雄市左營區蓮池潭",
+        "Described": "蓮池潭水位漲高於路面10.1CM",
+        "DEPTH": 10,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721914200000)\/",
+        "Contact": null,
+        "X": 120.2951588,
+        "Y": 22.68395699,
+        "SITUATION_NOTE": "蓮池潭水位漲高於路面10.1CM",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721869140000)\/",
+        "MODIFY_DATE": "\/Date(1721869140000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/eca28121-4107-403d-ba3d-633ac27ec56e.png",
+        "MinX": 120.29184346776401,
+        "MaxX": 120.30043146284899,
+        "MinY": 22.678670104424,
+        "MaxY": 22.6889586981601
+    },
+    "GridId": 4074,
+    "Area": 76275,
+    "Z_D": 8.34,
+    "EffectAddress": "",
+    "EffectAddressCount": 0,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 0,
+        "TotalArea": 76275,
+        "TotalHouse30cmUp": 0,
+        "TotalArea30cmUp": 39675,
+        "TotalHouse50cmUp": 0,
+        "TotalArea50cmUp": 9525
+    },
+    "Land": [
+        {
+            "Id": "I",
+            "Area": 76050
+        },
+        {
+            "Id": "G",
+            "Area": 225
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "75d4a0f9-f3bc-452e-a499-6ef282e11a47",
+        "Org_Name": "經濟部水利署",
+        "Sources": "2",
+        "EMIS_No": "042024057020901",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "大寮區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721902620000)\/",
+        "LOCATION_DESCRIPTION": "高雄市大寮區中正路82巷右側巷道",
+        "Described": "積水數十公分，疑為山仔頂排水抽水機故障所致",
+        "DEPTH": 30,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721916000000)\/",
+        "Contact": null,
+        "X": 120.389242,
+        "Y": 22.619105,
+        "SITUATION_NOTE": "積水數十公分，疑為山仔頂排水抽水機故障所致",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721902620000)\/",
+        "MODIFY_DATE": "\/Date(1721902620000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/75d4a0f9-f3bc-452e-a499-6ef282e11a47.png",
+        "MinX": 120.388702709788,
+        "MaxX": 120.391840444713,
+        "MinY": 22.616166357431702,
+        "MaxY": 22.6197901833204
+    },
+    "GridId": 2207,
+    "Area": 36225,
+    "Z_D": 13.81,
+    "EffectAddress": "",
+    "EffectAddressCount": 93,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 93,
+        "TotalArea": 36225,
+        "TotalHouse30cmUp": 68,
+        "TotalArea30cmUp": 29450,
+        "TotalHouse50cmUp": 35,
+        "TotalArea50cmUp": 21575
+    },
+    "Land": [
+        {
+            "Id": "C",
+            "Area": 15300
+        },
+        {
+            "Id": "F",
+            "Area": 1500
+        },
+        {
+            "Id": "G",
+            "Area": 8675
+        },
+        {
+            "Id": "E",
+            "Area": 4050
+        },
+        {
+            "Id": "L",
+            "Area": 75
+        },
+        {
+            "Id": "I",
+            "Area": 50
+        },
+        {
+            "Id": "H",
+            "Area": 100
+        },
+        {
+            "Id": "A",
+            "Area": 6475
+        }
+    ]
+}

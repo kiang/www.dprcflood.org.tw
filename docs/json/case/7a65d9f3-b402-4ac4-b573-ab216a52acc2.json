@@ -1,0 +1,68 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "7a65d9f3-b402-4ac4-b573-ab216a52acc2",
+        "Org_Name": "第六河川分署",
+        "Sources": "25",
+        "EMIS_No": "成功二路(台糖物流園區前)",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "前鎮區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721866200000)\/",
+        "LOCATION_DESCRIPTION": "成功二路(台糖物流園區前)",
+        "Described": "目前感測值0公分",
+        "DEPTH": 57,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721880120000)\/",
+        "Contact": null,
+        "X": 120.304371,
+        "Y": 22.59716,
+        "SITUATION_NOTE": "目前感測值0公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721866200000)\/",
+        "MODIFY_DATE": "\/Date(1721866200000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "7"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/7a65d9f3-b402-4ac4-b573-ab216a52acc2.png",
+        "MinX": 120.30403712248601,
+        "MaxX": 120.305034085151,
+        "MinY": 22.5954987348184,
+        "MaxY": 22.5976316082634
+    },
+    "GridId": 1693,
+    "Area": 6675,
+    "Z_D": 1.9499999999999997,
+    "EffectAddress": "",
+    "EffectAddressCount": 0,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 0,
+        "TotalArea": 6675,
+        "TotalHouse30cmUp": 0,
+        "TotalArea30cmUp": 6400,
+        "TotalHouse50cmUp": 0,
+        "TotalArea50cmUp": 4875
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 6675
+        }
+    ]
+}

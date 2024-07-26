@@ -1,0 +1,88 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "835e5091-d6c1-4acd-bdc9-b56b6e2b70cb",
+        "Org_Name": "第六河川分署",
+        "Sources": "2",
+        "EMIS_No": "042024057005840",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "阿蓮區",
+        "EMISTYPE": "房屋積淹水",
+        "DATE": "\/Date(1721855640000)\/",
+        "LOCATION_DESCRIPTION": "高雄市阿蓮區再興120號(傳法禪寺)",
+        "Described": "積水約50公分(淹水至屋內，已派消防車)",
+        "DEPTH": 10,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721897400000)\/",
+        "Contact": null,
+        "X": 120.328436,
+        "Y": 22.838335,
+        "SITUATION_NOTE": "積水約50公分(淹水至屋內，已派消防車)",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721855640000)\/",
+        "MODIFY_DATE": "\/Date(1721855640000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/835e5091-d6c1-4acd-bdc9-b56b6e2b70cb.png",
+        "MinX": 120.326488897326,
+        "MaxX": 120.330106966343,
+        "MinY": 22.8376180129008,
+        "MaxY": 22.8398477723525
+    },
+    "GridId": 7920,
+    "Area": 31425,
+    "Z_D": 16.470001,
+    "EffectAddress": "",
+    "EffectAddressCount": 8,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 8,
+        "TotalArea": 31425,
+        "TotalHouse30cmUp": 8,
+        "TotalArea30cmUp": 29100,
+        "TotalHouse50cmUp": 8,
+        "TotalArea50cmUp": 26050
+    },
+    "Land": [
+        {
+            "Id": "C",
+            "Area": 22775
+        },
+        {
+            "Id": "G",
+            "Area": 4050
+        },
+        {
+            "Id": "E",
+            "Area": 675
+        },
+        {
+            "Id": "F",
+            "Area": 1650
+        },
+        {
+            "Id": "L",
+            "Area": 1450
+        },
+        {
+            "Id": "D",
+            "Area": 825
+        }
+    ]
+}

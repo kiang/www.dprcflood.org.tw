@@ -1,0 +1,88 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "17e8133d-d290-417c-926a-a819ad17d743",
+        "Org_Name": "經濟部水利署",
+        "Sources": "2",
+        "EMIS_No": "042024057018393",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "三民區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721897160000)\/",
+        "LOCATION_DESCRIPTION": "高雄市三民區黃興路206號",
+        "Described": "積水達60公分",
+        "DEPTH": 60,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721914800000)\/",
+        "Contact": null,
+        "X": 120.339721,
+        "Y": 22.649042,
+        "SITUATION_NOTE": "積水達60公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721897160000)\/",
+        "MODIFY_DATE": "\/Date(1721897160000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/17e8133d-d290-417c-926a-a819ad17d743.png",
+        "MinX": 120.337633042191,
+        "MaxX": 120.34452017651999,
+        "MinY": 22.6463255244394,
+        "MaxY": 22.650699978947998
+    },
+    "GridId": 3225,
+    "Area": 150500,
+    "Z_D": 10.45,
+    "EffectAddress": "",
+    "EffectAddressCount": 634,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 634,
+        "TotalArea": 150500,
+        "TotalHouse30cmUp": 608,
+        "TotalArea30cmUp": 147250,
+        "TotalHouse50cmUp": 535,
+        "TotalArea50cmUp": 137000
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 39475
+        },
+        {
+            "Id": "G",
+            "Area": 58650
+        },
+        {
+            "Id": "H",
+            "Area": 47875
+        },
+        {
+            "Id": "L",
+            "Area": 3500
+        },
+        {
+            "Id": "C",
+            "Area": 975
+        },
+        {
+            "Id": "I",
+            "Area": 25
+        }
+    ]
+}

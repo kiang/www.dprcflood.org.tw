@@ -1,0 +1,72 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "69c5ad8a-47a5-4fad-898c-e42fc7ec2c92",
+        "Org_Name": "第六河川分署",
+        "Sources": "25",
+        "EMIS_No": "孝順街505巷24弄路口",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "三民區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721867943000)\/",
+        "LOCATION_DESCRIPTION": "孝順街505巷與24弄路口路燈桿",
+        "Described": "目前感測值0公分",
+        "DEPTH": 144,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721889543000)\/",
+        "Contact": null,
+        "X": 120.312328,
+        "Y": 22.648447,
+        "SITUATION_NOTE": "目前感測值0公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721867943000)\/",
+        "MODIFY_DATE": "\/Date(1721867943000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "7"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/69c5ad8a-47a5-4fad-898c-e42fc7ec2c92.png",
+        "MinX": 120.31156071514701,
+        "MaxX": 120.31245525879399,
+        "MinY": 22.6483157767466,
+        "MaxY": 22.649183768114398
+    },
+    "GridId": 3179,
+    "Area": 1025,
+    "Z_D": 1.8699999999999999,
+    "EffectAddress": "",
+    "EffectAddressCount": 0,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 0,
+        "TotalArea": 1025,
+        "TotalHouse30cmUp": 0,
+        "TotalArea30cmUp": 975,
+        "TotalHouse50cmUp": 0,
+        "TotalArea50cmUp": 825
+    },
+    "Land": [
+        {
+            "Id": "F",
+            "Area": 825
+        },
+        {
+            "Id": "E",
+            "Area": 200
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "9037090f-bad1-4368-a88a-4cc86f4e1537",
+        "Org_Name": "經濟部水利署",
+        "Sources": "2",
+        "EMIS_No": "042024057023059",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "梓官區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721898780000)\/",
+        "LOCATION_DESCRIPTION": "高雄市梓官區中崙路",
+        "Described": "中崙路一帶已經開始積淹水希望能處理一下抽水機等方式處理有可能是滯洪池已滿位　／　梓官區中仁路整條淹水　／　積水50公分高",
+        "DEPTH": 50,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721914800000)\/",
+        "Contact": null,
+        "X": 120.27358,
+        "Y": 22.761865,
+        "SITUATION_NOTE": "中崙路一帶已經開始積淹水希望能處理一下抽水機等方式處理有可能是滯洪池已滿位　／　梓官區中仁路整條淹水　／　積水50公分高",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721898780000)\/",
+        "MODIFY_DATE": "\/Date(1721898780000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/9037090f-bad1-4368-a88a-4cc86f4e1537.png",
+        "MinX": 120.272919252926,
+        "MaxX": 120.275231375728,
+        "MinY": 22.7607555760442,
+        "MaxY": 22.7630279243529
+    },
+    "GridId": 5417,
+    "Area": 30725,
+    "Z_D": 5.17,
+    "EffectAddress": "",
+    "EffectAddressCount": 22,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 22,
+        "TotalArea": 30725,
+        "TotalHouse30cmUp": 20,
+        "TotalArea30cmUp": 29700,
+        "TotalHouse50cmUp": 19,
+        "TotalArea50cmUp": 24800
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 3025
+        },
+        {
+            "Id": "C",
+            "Area": 9450
+        },
+        {
+            "Id": "G",
+            "Area": 10300
+        },
+        {
+            "Id": "L",
+            "Area": 4025
+        },
+        {
+            "Id": "A",
+            "Area": 2600
+        },
+        {
+            "Id": "D",
+            "Area": 275
+        },
+        {
+            "Id": "H",
+            "Area": 1050
+        }
+    ]
+}

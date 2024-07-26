@@ -1,0 +1,92 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "db520559-8242-4a01-b478-86380486ab86",
+        "Org_Name": "經濟部水利署",
+        "Sources": "2",
+        "EMIS_No": "042024057027726",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "旗山區",
+        "EMISTYPE": "房屋積淹水",
+        "DATE": "\/Date(1721909100000)\/",
+        "LOCATION_DESCRIPTION": "高雄市旗山區新光里大岸巷23之1號",
+        "Described": "蓋處自清晨4點起暴雨積水，目前戶外水位至腰、室內及膝",
+        "DEPTH": 100,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721935200000)\/",
+        "Contact": null,
+        "X": 120.463126,
+        "Y": 22.83484,
+        "SITUATION_NOTE": "蓋處自清晨4點起暴雨積水，目前戶外水位至腰、室內及膝",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721909100000)\/",
+        "MODIFY_DATE": "\/Date(1721909100000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/db520559-8242-4a01-b478-86380486ab86.png",
+        "MinX": 120.461859411961,
+        "MaxX": 120.470267294537,
+        "MinY": 22.8161019447938,
+        "MaxY": 22.8395438395772
+    },
+    "GridId": 7882,
+    "Area": 657100,
+    "Z_D": 39.02,
+    "EffectAddress": "",
+    "EffectAddressCount": 144,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 144,
+        "TotalArea": 657100,
+        "TotalHouse30cmUp": 144,
+        "TotalArea30cmUp": 653850,
+        "TotalHouse50cmUp": 138,
+        "TotalArea50cmUp": 647150
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 19200
+        },
+        {
+            "Id": "G",
+            "Area": 56725
+        },
+        {
+            "Id": "L",
+            "Area": 14050
+        },
+        {
+            "Id": "C",
+            "Area": 475725
+        },
+        {
+            "Id": "F",
+            "Area": 87800
+        },
+        {
+            "Id": "H",
+            "Area": 2500
+        },
+        {
+            "Id": "D",
+            "Area": 1100
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "23f8bd99-c8f7-4796-84f6-d08592e7f655",
+        "Org_Name": "經濟部水利署",
+        "Sources": "2",
+        "EMIS_No": "042024057018938",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "橋頭區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721898300000)\/",
+        "LOCATION_DESCRIPTION": "高雄市橋頭區西林里西林路90號附近",
+        "Described": "反映該路段沿線積水至膝蓋高度即將淹入住家內部請速派遣抽水機",
+        "DEPTH": 50,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721914800000)\/",
+        "Contact": null,
+        "X": 120.288784,
+        "Y": 22.764876,
+        "SITUATION_NOTE": "反映該路段沿線積水至膝蓋高度即將淹入住家內部請速派遣抽水機",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721898300000)\/",
+        "MODIFY_DATE": "\/Date(1721898300000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/23f8bd99-c8f7-4796-84f6-d08592e7f655.png",
+        "MinX": 120.28488333427701,
+        "MaxX": 120.288941287055,
+        "MinY": 22.763524799465802,
+        "MaxY": 22.7661190495725
+    },
+    "GridId": 5484,
+    "Area": 71250,
+    "Z_D": 6.14,
+    "EffectAddress": "",
+    "EffectAddressCount": 24,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 24,
+        "TotalArea": 71250,
+        "TotalHouse30cmUp": 23,
+        "TotalArea30cmUp": 69525,
+        "TotalHouse50cmUp": 23,
+        "TotalArea50cmUp": 65700
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 6225
+        },
+        {
+            "Id": "L",
+            "Area": 1750
+        },
+        {
+            "Id": "G",
+            "Area": 27675
+        },
+        {
+            "Id": "C",
+            "Area": 35600
+        }
+    ]
+}

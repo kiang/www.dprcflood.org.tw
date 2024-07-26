@@ -1,0 +1,96 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "2064f0ed-da9f-48c7-a967-a2fdfeb10151",
+        "Org_Name": "經濟部水利署",
+        "Sources": "2",
+        "EMIS_No": "042024056994754",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "鼓山區",
+        "EMISTYPE": "地區積淹水",
+        "DATE": "\/Date(1721795580000)\/",
+        "LOCATION_DESCRIPTION": "高雄市鼓山區哨船街",
+        "Described": "哈瑪星抽水站未啟動致旁停車場週邊道路積水達半個輪胎高",
+        "DEPTH": 30,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721800800000)\/",
+        "Contact": null,
+        "X": 120.266915,
+        "Y": 22.617569,
+        "SITUATION_NOTE": "哈瑪星抽水站未啟動致旁停車場週邊道路積水達半個輪胎高",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721795580000)\/",
+        "MODIFY_DATE": "\/Date(1721795580000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/2064f0ed-da9f-48c7-a967-a2fdfeb10151.png",
+        "MinX": 120.26585543311,
+        "MaxX": 120.26965951803899,
+        "MinY": 22.616821617223202,
+        "MaxY": 22.620323985755
+    },
+    "GridId": 2221,
+    "Area": 46775,
+    "Z_D": 2.42,
+    "EffectAddress": "",
+    "EffectAddressCount": 225,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 225,
+        "TotalArea": 46775,
+        "TotalHouse30cmUp": 218,
+        "TotalArea30cmUp": 46000,
+        "TotalHouse50cmUp": 204,
+        "TotalArea50cmUp": 43475
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 12075
+        },
+        {
+            "Id": "I",
+            "Area": 7425
+        },
+        {
+            "Id": "G",
+            "Area": 19700
+        },
+        {
+            "Id": "L",
+            "Area": 3325
+        },
+        {
+            "Id": "D",
+            "Area": 100
+        },
+        {
+            "Id": "F",
+            "Area": 1025
+        },
+        {
+            "Id": "H",
+            "Area": 1850
+        },
+        {
+            "Id": "C",
+            "Area": 1275
+        }
+    ]
+}

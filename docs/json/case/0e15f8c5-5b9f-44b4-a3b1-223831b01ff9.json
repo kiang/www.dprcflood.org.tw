@@ -1,0 +1,76 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "0e15f8c5-5b9f-44b4-a3b1-223831b01ff9",
+        "Org_Name": "經濟部水利署",
+        "Sources": "2",
+        "EMIS_No": "042024057024004",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "路竹區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721910600000)\/",
+        "LOCATION_DESCRIPTION": "高雄市路竹區下坑里大德路",
+        "Described": "大德路沿線淹水高度達腳踝高",
+        "DEPTH": 15,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721914200000)\/",
+        "Contact": null,
+        "X": 120.289722,
+        "Y": 22.866795,
+        "SITUATION_NOTE": "大德路沿線淹水高度達腳踝高",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721910600000)\/",
+        "MODIFY_DATE": "\/Date(1721910600000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/0e15f8c5-5b9f-44b4-a3b1-223831b01ff9.png",
+        "MinX": 120.28971300492101,
+        "MaxX": 120.29278660060399,
+        "MinY": 22.8659482426187,
+        "MaxY": 22.8689485937698
+    },
+    "GridId": 9056,
+    "Area": 7700,
+    "Z_D": 16.12,
+    "EffectAddress": "",
+    "EffectAddressCount": 1,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 1,
+        "TotalArea": 7700,
+        "TotalHouse30cmUp": 1,
+        "TotalArea30cmUp": 4950,
+        "TotalHouse50cmUp": 0,
+        "TotalArea50cmUp": 1200
+    },
+    "Land": [
+        {
+            "Id": "C",
+            "Area": 7300
+        },
+        {
+            "Id": "E",
+            "Area": 200
+        },
+        {
+            "Id": "G",
+            "Area": 200
+        }
+    ]
+}

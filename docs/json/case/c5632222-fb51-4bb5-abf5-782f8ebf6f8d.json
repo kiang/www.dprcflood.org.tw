@@ -1,0 +1,88 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "c5632222-fb51-4bb5-abf5-782f8ebf6f8d",
+        "Org_Name": "經濟部水利署",
+        "Sources": "2",
+        "EMIS_No": "042024057023828",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "岡山區",
+        "EMISTYPE": "房屋積淹水",
+        "DATE": "\/Date(1721910180000)\/",
+        "LOCATION_DESCRIPTION": "高雄市岡山區鹽埔路221巷",
+        "Described": "積水半層樓高度，水位越來越高，已超過成年人胸口",
+        "DEPTH": 150,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721914200000)\/",
+        "Contact": null,
+        "X": 120.2978906,
+        "Y": 22.80505886,
+        "SITUATION_NOTE": "積水半層樓高度，水位越來越高，已超過成年人胸口",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721910180000)\/",
+        "MODIFY_DATE": "\/Date(1721910180000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/c5632222-fb51-4bb5-abf5-782f8ebf6f8d.png",
+        "MinX": 120.296903422464,
+        "MaxX": 120.30007180876899,
+        "MinY": 22.8022262588645,
+        "MaxY": 22.8075296933469
+    },
+    "GridId": 6700,
+    "Area": 131075,
+    "Z_D": 7.54,
+    "EffectAddress": "",
+    "EffectAddressCount": 381,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 381,
+        "TotalArea": 131075,
+        "TotalHouse30cmUp": 381,
+        "TotalArea30cmUp": 131075,
+        "TotalHouse50cmUp": 381,
+        "TotalArea50cmUp": 131050
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 23025
+        },
+        {
+            "Id": "G",
+            "Area": 64500
+        },
+        {
+            "Id": "L",
+            "Area": 8375
+        },
+        {
+            "Id": "C",
+            "Area": 30150
+        },
+        {
+            "Id": "I",
+            "Area": 875
+        },
+        {
+            "Id": "H",
+            "Area": 4150
+        }
+    ]
+}

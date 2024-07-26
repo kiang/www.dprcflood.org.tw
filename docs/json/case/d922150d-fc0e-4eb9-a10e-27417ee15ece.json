@@ -1,0 +1,84 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "d922150d-fc0e-4eb9-a10e-27417ee15ece",
+        "Org_Name": "第六河川分署",
+        "Sources": "2",
+        "EMIS_No": "042024057009222",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "旗津區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721870760000)\/",
+        "LOCATION_DESCRIPTION": "高雄市旗津區中洲二路278號",
+        "Described": "中洲里中洲二路、南汕里中洲二路段及南汕巷路段均淹水約20公分",
+        "DEPTH": 20,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721914200000)\/",
+        "Contact": null,
+        "X": 120.289711,
+        "Y": 22.585792,
+        "SITUATION_NOTE": "中洲里中洲二路、南汕里中洲二路段及南汕巷路段均淹水約20公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721870760000)\/",
+        "MODIFY_DATE": "\/Date(1721870760000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/d922150d-fc0e-4eb9-a10e-27417ee15ece.png",
+        "MinX": 120.287748990729,
+        "MaxX": 120.29058524766299,
+        "MinY": 22.5853639735871,
+        "MaxY": 22.5885357279982
+    },
+    "GridId": 1461,
+    "Area": 48400,
+    "Z_D": 1.65,
+    "EffectAddress": "",
+    "EffectAddressCount": 259,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 259,
+        "TotalArea": 48400,
+        "TotalHouse30cmUp": 233,
+        "TotalArea30cmUp": 44425,
+        "TotalHouse50cmUp": 180,
+        "TotalArea50cmUp": 34400
+    },
+    "Land": [
+        {
+            "Id": "H",
+            "Area": 4450
+        },
+        {
+            "Id": "E",
+            "Area": 6200
+        },
+        {
+            "Id": "C",
+            "Area": 700
+        },
+        {
+            "Id": "G",
+            "Area": 34150
+        },
+        {
+            "Id": "L",
+            "Area": 2900
+        }
+    ]
+}

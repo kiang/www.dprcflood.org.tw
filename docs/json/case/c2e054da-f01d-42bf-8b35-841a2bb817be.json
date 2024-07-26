@@ -1,0 +1,72 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "c2e054da-f01d-42bf-8b35-841a2bb817be",
+        "Org_Name": "經濟部水利署",
+        "Sources": "2",
+        "EMIS_No": "042024057022984",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "楠梓區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721907960000)\/",
+        "LOCATION_DESCRIPTION": "高雄市楠梓區泰昌街26巷8弄2號",
+        "Described": "整條巷弄戶外積水均已逾70公分以上",
+        "DEPTH": 70,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721914800000)\/",
+        "Contact": null,
+        "X": 120.285321,
+        "Y": 22.714969,
+        "SITUATION_NOTE": "整條巷弄戶外積水均已逾70公分以上",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721907960000)\/",
+        "MODIFY_DATE": "\/Date(1721907960000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/c2e054da-f01d-42bf-8b35-841a2bb817be.png",
+        "MinX": 120.284999141,
+        "MaxX": 120.28603369310099,
+        "MinY": 22.7146170892538,
+        "MaxY": 22.7155808965207
+    },
+    "GridId": 4490,
+    "Area": 3850,
+    "Z_D": 3.2800000000000002,
+    "EffectAddress": "",
+    "EffectAddressCount": 52,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 52,
+        "TotalArea": 3850,
+        "TotalHouse30cmUp": 41,
+        "TotalArea30cmUp": 3075,
+        "TotalHouse50cmUp": 20,
+        "TotalArea50cmUp": 1575
+    },
+    "Land": [
+        {
+            "Id": "G",
+            "Area": 3200
+        },
+        {
+            "Id": "E",
+            "Area": 650
+        }
+    ]
+}

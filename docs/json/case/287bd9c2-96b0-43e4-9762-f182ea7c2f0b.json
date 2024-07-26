@@ -1,0 +1,76 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "287bd9c2-96b0-43e4-9762-f182ea7c2f0b",
+        "Org_Name": "第六河川分署",
+        "Sources": "25",
+        "EMIS_No": "光復三路與河東路口",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "前金區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721865600000)\/",
+        "LOCATION_DESCRIPTION": "光復三路與河東路口",
+        "Described": "目前感測值0公分",
+        "DEPTH": 40,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721885400000)\/",
+        "Contact": null,
+        "X": 120.290779,
+        "Y": 22.622748,
+        "SITUATION_NOTE": "目前感測值0公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721865600000)\/",
+        "MODIFY_DATE": "\/Date(1721865600000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "7"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/287bd9c2-96b0-43e4-9762-f182ea7c2f0b.png",
+        "MinX": 120.29043404386101,
+        "MaxX": 120.29127898632399,
+        "MinY": 22.6213562791818,
+        "MaxY": 22.623490162134498
+    },
+    "GridId": 2312,
+    "Area": 6800,
+    "Z_D": 2.06,
+    "EffectAddress": "",
+    "EffectAddressCount": 5,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 5,
+        "TotalArea": 6800,
+        "TotalHouse30cmUp": 5,
+        "TotalArea30cmUp": 5900,
+        "TotalHouse50cmUp": 2,
+        "TotalArea50cmUp": 2000
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 5575
+        },
+        {
+            "Id": "G",
+            "Area": 1150
+        },
+        {
+            "Id": "I",
+            "Area": 75
+        }
+    ]
+}

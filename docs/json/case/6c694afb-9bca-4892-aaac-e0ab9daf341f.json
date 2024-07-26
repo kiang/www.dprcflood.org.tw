@@ -1,0 +1,72 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "6c694afb-9bca-4892-aaac-e0ab9daf341f",
+        "Org_Name": "第六河川分署",
+        "Sources": "2",
+        "EMIS_No": "042024057007837",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "小港區",
+        "EMISTYPE": "房屋積淹水",
+        "DATE": "\/Date(1721866860000)\/",
+        "LOCATION_DESCRIPTION": "高雄市小港區鳳源路63號",
+        "Described": "房屋積水15公分高",
+        "DEPTH": 15,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721913600000)\/",
+        "Contact": null,
+        "X": 120.344227,
+        "Y": 22.52624,
+        "SITUATION_NOTE": "房屋積水15公分高",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721866860000)\/",
+        "MODIFY_DATE": "\/Date(1721866860000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/6c694afb-9bca-4892-aaac-e0ab9daf341f.png",
+        "MinX": 120.344104319975,
+        "MaxX": 120.346060815231,
+        "MinY": 22.5255464427354,
+        "MaxY": 22.5273640268897
+    },
+    "GridId": 525,
+    "Area": 3075,
+    "Z_D": 2.69,
+    "EffectAddress": "",
+    "EffectAddressCount": 18,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 18,
+        "TotalArea": 3075,
+        "TotalHouse30cmUp": 1,
+        "TotalArea30cmUp": 575,
+        "TotalHouse50cmUp": 0,
+        "TotalArea50cmUp": 0
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 475
+        },
+        {
+            "Id": "G",
+            "Area": 2600
+        }
+    ]
+}

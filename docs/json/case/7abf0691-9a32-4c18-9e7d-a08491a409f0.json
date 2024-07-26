@@ -1,0 +1,84 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "7abf0691-9a32-4c18-9e7d-a08491a409f0",
+        "Org_Name": "第六河川分署",
+        "Sources": "2",
+        "EMIS_No": "042024057005945",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "彌陀區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721856300000)\/",
+        "LOCATION_DESCRIPTION": "高雄市彌陀區文安路、舊港路",
+        "Described": "文安路、舊港路已退水",
+        "DEPTH": 10,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721904000000)\/",
+        "Contact": null,
+        "X": 120.240371,
+        "Y": 22.794257,
+        "SITUATION_NOTE": "文安路、舊港路已退水",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721856300000)\/",
+        "MODIFY_DATE": "\/Date(1721856300000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/7abf0691-9a32-4c18-9e7d-a08491a409f0.png",
+        "MinX": 120.237694694772,
+        "MaxX": 120.24077638752499,
+        "MinY": 22.7928274682999,
+        "MaxY": 22.7944784413355
+    },
+    "GridId": 6228,
+    "Area": 26350,
+    "Z_D": 3.15,
+    "EffectAddress": "",
+    "EffectAddressCount": 5,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 5,
+        "TotalArea": 26350,
+        "TotalHouse30cmUp": 5,
+        "TotalArea30cmUp": 24650,
+        "TotalHouse50cmUp": 5,
+        "TotalArea50cmUp": 21025
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 1300
+        },
+        {
+            "Id": "G",
+            "Area": 4475
+        },
+        {
+            "Id": "C",
+            "Area": 1000
+        },
+        {
+            "Id": "B",
+            "Area": 17275
+        },
+        {
+            "Id": "L",
+            "Area": 2300
+        }
+    ]
+}

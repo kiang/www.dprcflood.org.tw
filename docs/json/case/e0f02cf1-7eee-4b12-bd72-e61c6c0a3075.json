@@ -1,0 +1,76 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "e0f02cf1-7eee-4b12-bd72-e61c6c0a3075",
+        "Org_Name": "第六河川分署",
+        "Sources": "2",
+        "EMIS_No": "042024057005816",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "彌陀區",
+        "EMISTYPE": "房屋積淹水",
+        "DATE": "\/Date(1721855580000)\/",
+        "LOCATION_DESCRIPTION": "高雄市彌陀區舊港老人活動中心",
+        "Described": "目前已退水，抽水機正常抽水",
+        "DEPTH": 15,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721917800000)\/",
+        "Contact": null,
+        "X": 120.2394571,
+        "Y": 22.77944528,
+        "SITUATION_NOTE": "目前已退水，抽水機正常抽水",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721855580000)\/",
+        "MODIFY_DATE": "\/Date(1721855580000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/e0f02cf1-7eee-4b12-bd72-e61c6c0a3075.png",
+        "MinX": 120.23824585467601,
+        "MaxX": 120.240607154167,
+        "MinY": 22.7794255540638,
+        "MaxY": 22.781923708618
+    },
+    "GridId": 5912,
+    "Area": 18600,
+    "Z_D": 1.7799999999999998,
+    "EffectAddress": "",
+    "EffectAddressCount": 0,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 0,
+        "TotalArea": 18600,
+        "TotalHouse30cmUp": 0,
+        "TotalArea30cmUp": 16925,
+        "TotalHouse50cmUp": 0,
+        "TotalArea50cmUp": 13350
+    },
+    "Land": [
+        {
+            "Id": "B",
+            "Area": 18500
+        },
+        {
+            "Id": "E",
+            "Area": 75
+        },
+        {
+            "Id": "D",
+            "Area": 25
+        }
+    ]
+}

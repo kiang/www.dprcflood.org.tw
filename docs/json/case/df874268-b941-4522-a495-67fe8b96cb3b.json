@@ -1,0 +1,84 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "df874268-b941-4522-a495-67fe8b96cb3b",
+        "Org_Name": "第六河川分署",
+        "Sources": "2",
+        "EMIS_No": "162024057007663",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "前金區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721866260000)\/",
+        "LOCATION_DESCRIPTION": "高雄市前金區市中一路100號文雄苑大樓大陸淹水約10公分",
+        "Described": "高雄市前金區市中一路100號文雄苑大樓大陸淹水約10公分",
+        "DEPTH": 10,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721911800000)\/",
+        "Contact": null,
+        "X": 120.292703,
+        "Y": 22.623279,
+        "SITUATION_NOTE": "高雄市前金區市中一路100號文雄苑大樓大陸淹水約10公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721866260000)\/",
+        "MODIFY_DATE": "\/Date(1721866260000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/df874268-b941-4522-a495-67fe8b96cb3b.png",
+        "MinX": 120.29062836026701,
+        "MaxX": 120.29401094736099,
+        "MinY": 22.6210462249606,
+        "MaxY": 22.624268486748498
+    },
+    "GridId": 2346,
+    "Area": 25500,
+    "Z_D": 1.76,
+    "EffectAddress": "",
+    "EffectAddressCount": 80,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 80,
+        "TotalArea": 25500,
+        "TotalHouse30cmUp": 35,
+        "TotalArea30cmUp": 12275,
+        "TotalHouse50cmUp": 5,
+        "TotalArea50cmUp": 1200
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 5600
+        },
+        {
+            "Id": "G",
+            "Area": 6100
+        },
+        {
+            "Id": "I",
+            "Area": 25
+        },
+        {
+            "Id": "H",
+            "Area": 13750
+        },
+        {
+            "Id": "L",
+            "Area": 25
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "f1aa5c93-b493-4a5a-9ad7-8c2713063c5b",
+        "Org_Name": "經濟部水利署",
+        "Sources": "2",
+        "EMIS_No": "042024057017520",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "橋頭區",
+        "EMISTYPE": "地區積淹水",
+        "DATE": "\/Date(1721894400000)\/",
+        "LOCATION_DESCRIPTION": "高雄市橋頭區橋南里球場路3號台糖停車場積水",
+        "Described": "台糖停車場積水約6公分",
+        "DEPTH": 6,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721915400000)\/",
+        "Contact": null,
+        "X": 120.315351,
+        "Y": 22.754586,
+        "SITUATION_NOTE": "台糖停車場積水約6公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721894400000)\/",
+        "MODIFY_DATE": "\/Date(1721894400000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/f1aa5c93-b493-4a5a-9ad7-8c2713063c5b.png",
+        "MinX": 120.315513359281,
+        "MaxX": 120.31816180284099,
+        "MinY": 22.7534564076197,
+        "MaxY": 22.7545896884183
+    },
+    "GridId": 5212,
+    "Area": 18450,
+    "Z_D": 10.690000000000001,
+    "EffectAddress": "",
+    "EffectAddressCount": 3,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 3,
+        "TotalArea": 18450,
+        "TotalHouse30cmUp": 3,
+        "TotalArea30cmUp": 15725,
+        "TotalHouse50cmUp": 1,
+        "TotalArea50cmUp": 11075
+    },
+    "Land": [
+        {
+            "Id": "D",
+            "Area": 1925
+        },
+        {
+            "Id": "C",
+            "Area": 15975
+        },
+        {
+            "Id": "G",
+            "Area": 250
+        },
+        {
+            "Id": "E",
+            "Area": 300
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "30c3d880-063a-4c94-bdab-5c5d0c85823f",
+        "Org_Name": "第六河川分署",
+        "Sources": "25",
+        "EMIS_No": "建國路與文衡路口",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "鳳山區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721861820000)\/",
+        "LOCATION_DESCRIPTION": "建國路與文衡路口",
+        "Described": "目前感測值0公分",
+        "DEPTH": 35,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721877420000)\/",
+        "Contact": null,
+        "X": 120.357526,
+        "Y": 22.636121,
+        "SITUATION_NOTE": "目前感測值0公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721861820000)\/",
+        "MODIFY_DATE": "\/Date(1721861820000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "7"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/30c3d880-063a-4c94-bdab-5c5d0c85823f.png",
+        "MinX": 120.357203256489,
+        "MaxX": 120.359164441487,
+        "MinY": 22.6354544817274,
+        "MaxY": 22.6365048613162
+    },
+    "GridId": 2773,
+    "Area": 3950,
+    "Z_D": 14.11,
+    "EffectAddress": "",
+    "EffectAddressCount": 2,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 2,
+        "TotalArea": 3950,
+        "TotalHouse30cmUp": 2,
+        "TotalArea30cmUp": 1625,
+        "TotalHouse50cmUp": 0,
+        "TotalArea50cmUp": 100
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 3825
+        },
+        {
+            "Id": "G",
+            "Area": 125
+        }
+    ]
+}

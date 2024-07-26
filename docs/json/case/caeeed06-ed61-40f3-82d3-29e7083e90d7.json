@@ -1,0 +1,84 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "caeeed06-ed61-40f3-82d3-29e7083e90d7",
+        "Org_Name": "經濟部水利署",
+        "Sources": "2",
+        "EMIS_No": "042024057023235",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "鳥松區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721908500000)\/",
+        "LOCATION_DESCRIPTION": "高雄市鳥松區琅環二街33號",
+        "Described": "該址淹水高度達半個輪胎高",
+        "DEPTH": 20,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721914200000)\/",
+        "Contact": null,
+        "X": 120.359184,
+        "Y": 22.665631,
+        "SITUATION_NOTE": "該址淹水高度達半個輪胎高",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721908500000)\/",
+        "MODIFY_DATE": "\/Date(1721908500000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/caeeed06-ed61-40f3-82d3-29e7083e90d7.png",
+        "MinX": 120.357888883195,
+        "MaxX": 120.359613299348,
+        "MinY": 22.6644922252677,
+        "MaxY": 22.6667152084346
+    },
+    "GridId": 3624,
+    "Area": 20575,
+    "Z_D": 15.12,
+    "EffectAddress": "",
+    "EffectAddressCount": 13,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 13,
+        "TotalArea": 20575,
+        "TotalHouse30cmUp": 9,
+        "TotalArea30cmUp": 14225,
+        "TotalHouse50cmUp": 1,
+        "TotalArea50cmUp": 7475
+    },
+    "Land": [
+        {
+            "Id": "F",
+            "Area": 2300
+        },
+        {
+            "Id": "A",
+            "Area": 16075
+        },
+        {
+            "Id": "G",
+            "Area": 975
+        },
+        {
+            "Id": "E",
+            "Area": 25
+        },
+        {
+            "Id": "C",
+            "Area": 1200
+        }
+    ]
+}

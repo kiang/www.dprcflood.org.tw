@@ -1,0 +1,68 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "ea06734e-108b-4476-aece-47cdc0d4c8ea",
+        "Org_Name": "第六河川分署",
+        "Sources": "25",
+        "EMIS_No": "民族一路647巷45弄",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "三民區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721869385000)\/",
+        "LOCATION_DESCRIPTION": "民族一路647巷45弄前路燈燈桿處",
+        "Described": "目前感測值0公分",
+        "DEPTH": 94,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721886185000)\/",
+        "Contact": null,
+        "X": 120.3161766,
+        "Y": 22.66955,
+        "SITUATION_NOTE": "目前感測值0公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721869385000)\/",
+        "MODIFY_DATE": "\/Date(1721869385000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "7"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/ea06734e-108b-4476-aece-47cdc0d4c8ea.png",
+        "MinX": 120.31583795638501,
+        "MaxX": 120.31648530864,
+        "MinY": 22.6695076459171,
+        "MaxY": 22.6695685184581
+    },
+    "GridId": 3701,
+    "Area": 325,
+    "Z_D": 5.959999999999999,
+    "EffectAddress": "",
+    "EffectAddressCount": 0,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 0,
+        "TotalArea": 325,
+        "TotalHouse30cmUp": 0,
+        "TotalArea30cmUp": 325,
+        "TotalHouse50cmUp": 0,
+        "TotalArea50cmUp": 325
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 325
+        }
+    ]
+}

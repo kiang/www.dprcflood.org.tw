@@ -1,0 +1,68 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "e6a72e4d-85f3-4726-ab50-2fb0b8b2b5ed",
+        "Org_Name": "第六河川分署",
+        "Sources": "2",
+        "EMIS_No": "042024057009363",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "楠梓區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721871300000)\/",
+        "LOCATION_DESCRIPTION": "高雄市楠梓區北昌街",
+        "Described": "道路淹水15公分",
+        "DEPTH": 15,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721913000000)\/",
+        "Contact": null,
+        "X": 120.281801,
+        "Y": 22.719559,
+        "SITUATION_NOTE": "道路淹水15公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721871300000)\/",
+        "MODIFY_DATE": "\/Date(1721871300000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/e6a72e4d-85f3-4726-ab50-2fb0b8b2b5ed.png",
+        "MinX": 120.281371689995,
+        "MaxX": 120.28148387091099,
+        "MinY": 22.7197925257557,
+        "MaxY": 22.7198511244743
+    },
+    "GridId": 4570,
+    "Area": 50,
+    "Z_D": 2.58,
+    "EffectAddress": "",
+    "EffectAddressCount": 0,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 0,
+        "TotalArea": 50,
+        "TotalHouse30cmUp": 0,
+        "TotalArea30cmUp": 0,
+        "TotalHouse50cmUp": 0,
+        "TotalArea50cmUp": 0
+    },
+    "Land": [
+        {
+            "Id": "G",
+            "Area": 50
+        }
+    ]
+}

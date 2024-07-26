@@ -1,0 +1,80 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "4e9ef2c7-be85-480f-b97b-098f56e4fa77",
+        "Org_Name": "第六河川分署",
+        "Sources": "2",
+        "EMIS_No": "042024057009203",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "大社區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721870760000)\/",
+        "LOCATION_DESCRIPTION": "高雄市大社區中華與神農路口",
+        "Described": "積水約20公分。",
+        "DEPTH": 20,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721916000000)\/",
+        "Contact": null,
+        "X": 120.3707994,
+        "Y": 22.73983479,
+        "SITUATION_NOTE": "積水約20公分。",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721870760000)\/",
+        "MODIFY_DATE": "\/Date(1721870760000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/4e9ef2c7-be85-480f-b97b-098f56e4fa77.png",
+        "MinX": 120.370330052235,
+        "MaxX": 120.374441852471,
+        "MinY": 22.7391339503938,
+        "MaxY": 22.7443439193653
+    },
+    "GridId": 5009,
+    "Area": 58325,
+    "Z_D": 32.659999000000006,
+    "EffectAddress": "",
+    "EffectAddressCount": 1,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 1,
+        "TotalArea": 58325,
+        "TotalHouse30cmUp": 0,
+        "TotalArea30cmUp": 54950,
+        "TotalHouse50cmUp": 0,
+        "TotalArea50cmUp": 52000
+    },
+    "Land": [
+        {
+            "Id": "C",
+            "Area": 56600
+        },
+        {
+            "Id": "F",
+            "Area": 550
+        },
+        {
+            "Id": "E",
+            "Area": 775
+        },
+        {
+            "Id": "G",
+            "Area": 400
+        }
+    ]
+}

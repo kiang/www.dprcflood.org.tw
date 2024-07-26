@@ -1,0 +1,76 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "bb698548-c1b7-4de2-9660-b41a4d774df7",
+        "Org_Name": "第六河川分署",
+        "Sources": "25",
+        "EMIS_No": "永安區公所-永安宮",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "永安區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721852163000)\/",
+        "LOCATION_DESCRIPTION": "永安宮廟埕圍牆內電線桿",
+        "Described": "目前感測值0公分",
+        "DEPTH": 27,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721859963000)\/",
+        "Contact": null,
+        "X": 120.224739,
+        "Y": 22.817884,
+        "SITUATION_NOTE": "目前感測值0公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721852163000)\/",
+        "MODIFY_DATE": "\/Date(1721852163000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "7"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/bb698548-c1b7-4de2-9660-b41a4d774df7.png",
+        "MinX": 120.224114675332,
+        "MaxX": 120.225444772863,
+        "MinY": 22.8175541635532,
+        "MaxY": 22.818334241969698
+    },
+    "GridId": 7101,
+    "Area": 3675,
+    "Z_D": 1.79999997,
+    "EffectAddress": "",
+    "EffectAddressCount": 10,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 10,
+        "TotalArea": 3675,
+        "TotalHouse30cmUp": 5,
+        "TotalArea30cmUp": 1750,
+        "TotalHouse50cmUp": 0,
+        "TotalArea50cmUp": 0
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 650
+        },
+        {
+            "Id": "G",
+            "Area": 3000
+        },
+        {
+            "Id": "H",
+            "Area": 25
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "6ee6198e-7585-4cc4-8588-4eceee8bc3a0",
+        "Org_Name": "第六河川分署",
+        "Sources": "2",
+        "EMIS_No": "042024056993283",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "梓官區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721785740000)\/",
+        "LOCATION_DESCRIPTION": "梓義里興安暉資源回收廠旁道路",
+        "Described": "積淹水",
+        "DEPTH": 10,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721797200000)\/",
+        "Contact": null,
+        "X": 120.2593989,
+        "Y": 22.748209,
+        "SITUATION_NOTE": "積淹水",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721785740000)\/",
+        "MODIFY_DATE": "\/Date(1721785740000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/6ee6198e-7585-4cc4-8588-4eceee8bc3a0.png",
+        "MinX": 120.25737528031101,
+        "MaxX": 120.259776661465,
+        "MinY": 22.7466847805232,
+        "MaxY": 22.747610524681598
+    },
+    "GridId": 5108,
+    "Area": 950,
+    "Z_D": 7.609999999999999,
+    "EffectAddress": "",
+    "EffectAddressCount": 0,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 0,
+        "TotalArea": 950,
+        "TotalHouse30cmUp": 0,
+        "TotalArea30cmUp": 75,
+        "TotalHouse50cmUp": 0,
+        "TotalArea50cmUp": 0
+    },
+    "Land": [
+        {
+            "Id": "C",
+            "Area": 875
+        },
+        {
+            "Id": "G",
+            "Area": 75
+        }
+    ]
+}

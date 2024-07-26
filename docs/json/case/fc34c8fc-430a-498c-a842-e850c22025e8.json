@@ -1,0 +1,68 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "fc34c8fc-430a-498c-a842-e850c22025e8",
+        "Org_Name": "第六河川分署",
+        "Sources": "2",
+        "EMIS_No": "042024057005744",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "永安區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721854500000)\/",
+        "LOCATION_DESCRIPTION": "高雄市永安區中華街[高雄市永安區新港里1鄰中華街6號]",
+        "Described": "中華街路段因強降雨宣洩不及造成積水高度約10-15公分：原已退水，於本(25)日14時15分再度積淹水40-50公分",
+        "DEPTH": 10,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721865600000)\/",
+        "Contact": null,
+        "X": 120.21432486156087,
+        "Y": 22.81413341935695,
+        "SITUATION_NOTE": "中華街路段因強降雨宣洩不及造成積水高度約10-15公分：原已退水，於本(25)日14時15分再度積淹水40-50公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721854500000)\/",
+        "MODIFY_DATE": "\/Date(1721854500000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/fc34c8fc-430a-498c-a842-e850c22025e8.png",
+        "MinX": 120.21336124234901,
+        "MaxX": 120.215239228807,
+        "MinY": 22.8138925374299,
+        "MaxY": 22.8161111758212
+    },
+    "GridId": 7015,
+    "Area": 12200,
+    "Z_D": 0.22,
+    "EffectAddress": "",
+    "EffectAddressCount": 0,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 0,
+        "TotalArea": 12200,
+        "TotalHouse30cmUp": 0,
+        "TotalArea30cmUp": 10300,
+        "TotalHouse50cmUp": 0,
+        "TotalArea50cmUp": 7650
+    },
+    "Land": [
+        {
+            "Id": "B",
+            "Area": 12200
+        }
+    ]
+}

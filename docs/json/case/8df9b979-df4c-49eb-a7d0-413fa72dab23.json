@@ -1,0 +1,88 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "8df9b979-df4c-49eb-a7d0-413fa72dab23",
+        "Org_Name": "第六河川分署",
+        "Sources": "2",
+        "EMIS_No": "042024057006533",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "路竹區",
+        "EMISTYPE": "房屋積淹水",
+        "DATE": "\/Date(1721860800000)\/",
+        "LOCATION_DESCRIPTION": "高雄市路竹區復興路1133巷500號裕鐵企業公司",
+        "Described": "積水30公分",
+        "DEPTH": 30,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721873400000)\/",
+        "Contact": null,
+        "X": 120.288741,
+        "Y": 22.839476,
+        "SITUATION_NOTE": "積水30公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721860800000)\/",
+        "MODIFY_DATE": "\/Date(1721860800000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/8df9b979-df4c-49eb-a7d0-413fa72dab23.png",
+        "MinX": 120.287667496145,
+        "MaxX": 120.290984487923,
+        "MinY": 22.837545844094702,
+        "MaxY": 22.8415712218329
+    },
+    "GridId": 7963,
+    "Area": 106375,
+    "Z_D": 7.66,
+    "EffectAddress": "",
+    "EffectAddressCount": 4,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 4,
+        "TotalArea": 106375,
+        "TotalHouse30cmUp": 2,
+        "TotalArea30cmUp": 97625,
+        "TotalHouse50cmUp": 1,
+        "TotalArea50cmUp": 84250
+    },
+    "Land": [
+        {
+            "Id": "B",
+            "Area": 87125
+        },
+        {
+            "Id": "C",
+            "Area": 7525
+        },
+        {
+            "Id": "E",
+            "Area": 3075
+        },
+        {
+            "Id": "I",
+            "Area": 825
+        },
+        {
+            "Id": "L",
+            "Area": 4925
+        },
+        {
+            "Id": "G",
+            "Area": 2900
+        }
+    ]
+}

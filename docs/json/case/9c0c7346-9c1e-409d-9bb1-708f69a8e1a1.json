@@ -1,0 +1,80 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "9c0c7346-9c1e-409d-9bb1-708f69a8e1a1",
+        "Org_Name": "第六河川分署",
+        "Sources": "25",
+        "EMIS_No": "青海路美術東八街口",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "鼓山區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721855400000)\/",
+        "LOCATION_DESCRIPTION": "青海路美術東八街口",
+        "Described": "目前感測值0公分",
+        "DEPTH": 60,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721888280000)\/",
+        "Contact": null,
+        "X": 120.291066,
+        "Y": 22.651315,
+        "SITUATION_NOTE": "目前感測值0公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721855400000)\/",
+        "MODIFY_DATE": "\/Date(1721855400000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "7"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/9c0c7346-9c1e-409d-9bb1-708f69a8e1a1.png",
+        "MinX": 120.288928162839,
+        "MaxX": 120.29176593369199,
+        "MinY": 22.6503392986308,
+        "MaxY": 22.6520747698526
+    },
+    "GridId": 3273,
+    "Area": 10575,
+    "Z_D": 3.18,
+    "EffectAddress": "",
+    "EffectAddressCount": 6,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 6,
+        "TotalArea": 10575,
+        "TotalHouse30cmUp": 6,
+        "TotalArea30cmUp": 9950,
+        "TotalHouse50cmUp": 3,
+        "TotalArea50cmUp": 8025
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 9200
+        },
+        {
+            "Id": "L",
+            "Area": 425
+        },
+        {
+            "Id": "G",
+            "Area": 925
+        },
+        {
+            "Id": "I",
+            "Area": 25
+        }
+    ]
+}

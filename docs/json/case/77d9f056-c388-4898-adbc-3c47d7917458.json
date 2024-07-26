@@ -1,0 +1,84 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "77d9f056-c388-4898-adbc-3c47d7917458",
+        "Org_Name": "經濟部水利署",
+        "Sources": "2",
+        "EMIS_No": "042024057022686",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "楠梓區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721907000000)\/",
+        "LOCATION_DESCRIPTION": "高雄市楠梓區大學56街及58街",
+        "Described": "積水60公分",
+        "DEPTH": 60,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721916600000)\/",
+        "Contact": null,
+        "X": 120.300758,
+        "Y": 22.72109961,
+        "SITUATION_NOTE": "積水60公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721907000000)\/",
+        "MODIFY_DATE": "\/Date(1721907000000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/77d9f056-c388-4898-adbc-3c47d7917458.png",
+        "MinX": 120.297902788689,
+        "MaxX": 120.304545280377,
+        "MinY": 22.7197376245187,
+        "MaxY": 22.7252740599404
+    },
+    "GridId": 4657,
+    "Area": 232500,
+    "Z_D": 19.080000000000002,
+    "EffectAddress": "",
+    "EffectAddressCount": 39,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 39,
+        "TotalArea": 232500,
+        "TotalHouse30cmUp": 37,
+        "TotalArea30cmUp": 217900,
+        "TotalHouse50cmUp": 17,
+        "TotalArea50cmUp": 156575
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 56725
+        },
+        {
+            "Id": "I",
+            "Area": 6000
+        },
+        {
+            "Id": "G",
+            "Area": 165250
+        },
+        {
+            "Id": "H",
+            "Area": 1625
+        },
+        {
+            "Id": "L",
+            "Area": 2900
+        }
+    ]
+}

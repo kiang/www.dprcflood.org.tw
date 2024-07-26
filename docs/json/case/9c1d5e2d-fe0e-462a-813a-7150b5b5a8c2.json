@@ -1,0 +1,84 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "9c1d5e2d-fe0e-462a-813a-7150b5b5a8c2",
+        "Org_Name": "經濟部水利署",
+        "Sources": "2",
+        "EMIS_No": "042024057024403",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "前金區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721911440000)\/",
+        "LOCATION_DESCRIPTION": "高雄市前金區自強一路83巷內自強一路上近自強一路83巷口七賢二路近自強一路83巷口",
+        "Described": "反映該三處積水10至20公分",
+        "DEPTH": 20,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721913600000)\/",
+        "Contact": null,
+        "X": 120.292527,
+        "Y": 22.631699,
+        "SITUATION_NOTE": "反映該三處積水10至20公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721911440000)\/",
+        "MODIFY_DATE": "\/Date(1721911440000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/9c1d5e2d-fe0e-462a-813a-7150b5b5a8c2.png",
+        "MinX": 120.291026035754,
+        "MaxX": 120.29488275941699,
+        "MinY": 22.6297126838957,
+        "MaxY": 22.632582728160198
+    },
+    "GridId": 2641,
+    "Area": 31450,
+    "Z_D": 1.92,
+    "EffectAddress": "",
+    "EffectAddressCount": 211,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 211,
+        "TotalArea": 31450,
+        "TotalHouse30cmUp": 92,
+        "TotalArea30cmUp": 12200,
+        "TotalHouse50cmUp": 4,
+        "TotalArea50cmUp": 1075
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 12400
+        },
+        {
+            "Id": "G",
+            "Area": 16550
+        },
+        {
+            "Id": "L",
+            "Area": 175
+        },
+        {
+            "Id": "H",
+            "Area": 675
+        },
+        {
+            "Id": "I",
+            "Area": 1650
+        }
+    ]
+}

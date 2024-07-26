@@ -1,0 +1,80 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "37faabb2-b7c2-4a60-a0d2-9bf44bfd8c8d",
+        "Org_Name": "經濟部水利署",
+        "Sources": "2",
+        "EMIS_No": "042024057018516",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "鳳山區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721897460000)\/",
+        "LOCATION_DESCRIPTION": "高雄市鳳山區埤北路259號",
+        "Described": "該址周邊積水已逾腳踝高度即將淹入屋內",
+        "DEPTH": 15,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721914200000)\/",
+        "Contact": null,
+        "X": 120.379605,
+        "Y": 22.633486,
+        "SITUATION_NOTE": "該址周邊積水已逾腳踝高度即將淹入屋內",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721897460000)\/",
+        "MODIFY_DATE": "\/Date(1721897460000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/37faabb2-b7c2-4a60-a0d2-9bf44bfd8c8d.png",
+        "MinX": 120.379395313527,
+        "MaxX": 120.38102728613599,
+        "MinY": 22.6312110295101,
+        "MaxY": 22.6339731452812
+    },
+    "GridId": 2699,
+    "Area": 1700,
+    "Z_D": 13.51,
+    "EffectAddress": "",
+    "EffectAddressCount": 2,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 2,
+        "TotalArea": 1700,
+        "TotalHouse30cmUp": 0,
+        "TotalArea30cmUp": 450,
+        "TotalHouse50cmUp": 0,
+        "TotalArea50cmUp": 0
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 1225
+        },
+        {
+            "Id": "I",
+            "Area": 175
+        },
+        {
+            "Id": "L",
+            "Area": 50
+        },
+        {
+            "Id": "G",
+            "Area": 250
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "257ef0c6-f45a-4654-a786-a1cd72035e43",
+        "Org_Name": "經濟部水利署",
+        "Sources": "2",
+        "EMIS_No": "042024057017415",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "苓雅區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721894640000)\/",
+        "LOCATION_DESCRIPTION": "高雄市苓雅區成功一路上介於青年二路至四維四路之間阮綜合對面",
+        "Described": "該路段淹水約3分之一個輪胎高且已淹入騎樓望盡速抽水",
+        "DEPTH": 15,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721913600000)\/",
+        "Contact": null,
+        "X": 120.298604,
+        "Y": 22.612762,
+        "SITUATION_NOTE": "該路段淹水約3分之一個輪胎高且已淹入騎樓望盡速抽水",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721894640000)\/",
+        "MODIFY_DATE": "\/Date(1721894640000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/257ef0c6-f45a-4654-a786-a1cd72035e43.png",
+        "MinX": 120.297384319139,
+        "MaxX": 120.301881734861,
+        "MinY": 22.612087798810602,
+        "MaxY": 22.6159042336841
+    },
+    "GridId": 2107,
+    "Area": 93875,
+    "Z_D": 2.46,
+    "EffectAddress": "",
+    "EffectAddressCount": 571,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 571,
+        "TotalArea": 93875,
+        "TotalHouse30cmUp": 494,
+        "TotalArea30cmUp": 75825,
+        "TotalHouse50cmUp": 274,
+        "TotalArea50cmUp": 45425
+    },
+    "Land": [
+        {
+            "Id": "H",
+            "Area": 14775
+        },
+        {
+            "Id": "E",
+            "Area": 33175
+        },
+        {
+            "Id": "G",
+            "Area": 43675
+        },
+        {
+            "Id": "L",
+            "Area": 800
+        },
+        {
+            "Id": "I",
+            "Area": 1450
+        }
+    ]
+}

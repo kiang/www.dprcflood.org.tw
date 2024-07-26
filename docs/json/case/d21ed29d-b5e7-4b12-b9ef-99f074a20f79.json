@@ -1,0 +1,92 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "d21ed29d-b5e7-4b12-b9ef-99f074a20f79",
+        "Org_Name": "第六河川分署",
+        "Sources": "2",
+        "EMIS_No": "042024057010037",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "楠梓區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721872140000)\/",
+        "LOCATION_DESCRIPTION": "高雄市楠梓區美昌街165巷、智昌街582巷、久昌街608巷",
+        "Described": "道路積淹水影響車輛通行,淹水達50公分以上",
+        "DEPTH": 50,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721912400000)\/",
+        "Contact": null,
+        "X": 120.279836,
+        "Y": 22.719204,
+        "SITUATION_NOTE": "道路積淹水影響車輛通行,淹水達50公分以上",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721872140000)\/",
+        "MODIFY_DATE": "\/Date(1721872140000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/d21ed29d-b5e7-4b12-b9ef-99f074a20f79.png",
+        "MinX": 120.277775967527,
+        "MaxX": 120.28252173227399,
+        "MinY": 22.7153597754177,
+        "MaxY": 22.7198925559414
+    },
+    "GridId": 4565,
+    "Area": 129700,
+    "Z_D": 3.74,
+    "EffectAddress": "",
+    "EffectAddressCount": 880,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 880,
+        "TotalArea": 129700,
+        "TotalHouse30cmUp": 872,
+        "TotalArea30cmUp": 127625,
+        "TotalHouse50cmUp": 809,
+        "TotalArea50cmUp": 118100
+    },
+    "Land": [
+        {
+            "Id": "F",
+            "Area": 2675
+        },
+        {
+            "Id": "E",
+            "Area": 30250
+        },
+        {
+            "Id": "I",
+            "Area": 1950
+        },
+        {
+            "Id": "G",
+            "Area": 78700
+        },
+        {
+            "Id": "L",
+            "Area": 10575
+        },
+        {
+            "Id": "C",
+            "Area": 4825
+        },
+        {
+            "Id": "D",
+            "Area": 725
+        }
+    ]
+}

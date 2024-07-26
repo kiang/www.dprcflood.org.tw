@@ -1,0 +1,80 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "1c7ed617-b930-4bf2-a391-a60cfb691d30",
+        "Org_Name": "經濟部水利署",
+        "Sources": "2",
+        "EMIS_No": "042024057018122",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "鹽埕區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721896440000)\/",
+        "LOCATION_DESCRIPTION": "高雄市鹽埕區大禮街63巷4號",
+        "Described": "反映址前積水已淹沒小腿",
+        "DEPTH": 30,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721914800000)\/",
+        "Contact": null,
+        "X": 120.28735,
+        "Y": 22.622285,
+        "SITUATION_NOTE": "反映址前積水已淹沒小腿",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721896440000)\/",
+        "MODIFY_DATE": "\/Date(1721896440000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/1c7ed617-b930-4bf2-a391-a60cfb691d30.png",
+        "MinX": 120.28596410458,
+        "MaxX": 120.28880152963299,
+        "MinY": 22.6211655517079,
+        "MaxY": 22.623336155704198
+    },
+    "GridId": 2306,
+    "Area": 18850,
+    "Z_D": 1.37,
+    "EffectAddress": "",
+    "EffectAddressCount": 159,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 159,
+        "TotalArea": 18850,
+        "TotalHouse30cmUp": 92,
+        "TotalArea30cmUp": 10400,
+        "TotalHouse50cmUp": 2,
+        "TotalArea50cmUp": 250
+    },
+    "Land": [
+        {
+            "Id": "G",
+            "Area": 12275
+        },
+        {
+            "Id": "E",
+            "Area": 6350
+        },
+        {
+            "Id": "L",
+            "Area": 150
+        },
+        {
+            "Id": "I",
+            "Area": 75
+        }
+    ]
+}

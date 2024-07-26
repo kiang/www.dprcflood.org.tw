@@ -1,0 +1,96 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "8f17decd-36f4-485a-b351-6f38394b0496",
+        "Org_Name": "經濟部水利署",
+        "Sources": "2",
+        "EMIS_No": "042024057022930",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "梓官區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721898000000)\/",
+        "LOCATION_DESCRIPTION": "高雄市梓官區公園東街9巷38號前",
+        "Described": "該處淹水嚴重已淹進住家地下室建請查處　／　40公分　／　40公分",
+        "DEPTH": 40,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721914200000)\/",
+        "Contact": null,
+        "X": 120.265016,
+        "Y": 22.741779,
+        "SITUATION_NOTE": "該處淹水嚴重已淹進住家地下室建請查處　／　40公分　／　40公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721898000000)\/",
+        "MODIFY_DATE": "\/Date(1721898000000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/8f17decd-36f4-485a-b351-6f38394b0496.png",
+        "MinX": 120.263095086738,
+        "MaxX": 120.26710446832999,
+        "MinY": 22.7405730278951,
+        "MaxY": 22.743655654498898
+    },
+    "GridId": 5005,
+    "Area": 35575,
+    "Z_D": 4.16,
+    "EffectAddress": "",
+    "EffectAddressCount": 315,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 315,
+        "TotalArea": 35575,
+        "TotalHouse30cmUp": 273,
+        "TotalArea30cmUp": 31400,
+        "TotalHouse50cmUp": 189,
+        "TotalArea50cmUp": 24650
+    },
+    "Land": [
+        {
+            "Id": "G",
+            "Area": 23425
+        },
+        {
+            "Id": "C",
+            "Area": 7950
+        },
+        {
+            "Id": "E",
+            "Area": 2350
+        },
+        {
+            "Id": "L",
+            "Area": 600
+        },
+        {
+            "Id": "A",
+            "Area": 400
+        },
+        {
+            "Id": "I",
+            "Area": 675
+        },
+        {
+            "Id": "B",
+            "Area": 150
+        },
+        {
+            "Id": "D",
+            "Area": 25
+        }
+    ]
+}

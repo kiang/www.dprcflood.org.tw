@@ -1,0 +1,96 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "d4c076d4-f77d-41bc-892c-075ddaa9b6c4",
+        "Org_Name": "經濟部水利署",
+        "Sources": "2",
+        "EMIS_No": "042024057023401",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "橋頭區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721908920000)\/",
+        "LOCATION_DESCRIPTION": "高雄市橋頭區南北路廟後巷23之1號",
+        "Described": "於17：00開始淹水小腿高度",
+        "DEPTH": 30,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721914200000)\/",
+        "Contact": null,
+        "X": 120.275357,
+        "Y": 22.745581,
+        "SITUATION_NOTE": "於17：00開始淹水小腿高度",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721908920000)\/",
+        "MODIFY_DATE": "\/Date(1721908920000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/d4c076d4-f77d-41bc-892c-075ddaa9b6c4.png",
+        "MinX": 120.273104780652,
+        "MaxX": 120.27812821060999,
+        "MinY": 22.7447880830177,
+        "MaxY": 22.7484893860175
+    },
+    "GridId": 5099,
+    "Area": 110550,
+    "Z_D": 3.3,
+    "EffectAddress": "",
+    "EffectAddressCount": 17,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 17,
+        "TotalArea": 110550,
+        "TotalHouse30cmUp": 8,
+        "TotalArea30cmUp": 101575,
+        "TotalHouse50cmUp": 2,
+        "TotalArea50cmUp": 57800
+    },
+    "Land": [
+        {
+            "Id": "A",
+            "Area": 76700
+        },
+        {
+            "Id": "E",
+            "Area": 2925
+        },
+        {
+            "Id": "G",
+            "Area": 12250
+        },
+        {
+            "Id": "F",
+            "Area": 1875
+        },
+        {
+            "Id": "C",
+            "Area": 11050
+        },
+        {
+            "Id": "D",
+            "Area": 3925
+        },
+        {
+            "Id": "I",
+            "Area": 1400
+        },
+        {
+            "Id": "H",
+            "Area": 425
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "e0dbfdb3-6e2d-4494-a5c8-9c7a218aa174",
+        "Org_Name": "第六河川分署",
+        "Sources": "25",
+        "EMIS_No": "果貿社區(果峰街)",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "左營區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721878564000)\/",
+        "LOCATION_DESCRIPTION": "果峰街3巷19號前路燈燈桿",
+        "Described": "目前感測值0公分",
+        "DEPTH": 19,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721883364000)\/",
+        "Contact": null,
+        "X": 120.287719,
+        "Y": 22.67008,
+        "SITUATION_NOTE": "目前感測值0公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721878564000)\/",
+        "MODIFY_DATE": "\/Date(1721878564000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "7"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/e0dbfdb3-6e2d-4494-a5c8-9c7a218aa174.png",
+        "MinX": 120.287274008778,
+        "MaxX": 120.288216310243,
+        "MinY": 22.6696112620527,
+        "MaxY": 22.6702993903322
+    },
+    "GridId": 3719,
+    "Area": 1325,
+    "Z_D": 8.08,
+    "EffectAddress": "",
+    "EffectAddressCount": 17,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 17,
+        "TotalArea": 1325,
+        "TotalHouse30cmUp": 8,
+        "TotalArea30cmUp": 500,
+        "TotalHouse50cmUp": 0,
+        "TotalArea50cmUp": 25
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 600
+        },
+        {
+            "Id": "G",
+            "Area": 725
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "200bd213-5ec5-4635-87d0-7bb4ef785783",
+        "Org_Name": "經濟部水利署",
+        "Sources": "2",
+        "EMIS_No": "042024057024324",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "鹽埕區",
+        "EMISTYPE": "房屋地下室積水",
+        "DATE": "\/Date(1721911380000)\/",
+        "LOCATION_DESCRIPTION": "高雄市鹽埕區大智路126號",
+        "Described": "積水至小腿，已淹至地下室(經與林小姐0910215910確認目前已向公所借到抽水機  目前持續抽水中)",
+        "DEPTH": 30,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721913600000)\/",
+        "Contact": null,
+        "X": 120.286492,
+        "Y": 22.623021,
+        "SITUATION_NOTE": "積水至小腿，已淹至地下室(經與林小姐0910215910確認目前已向公所借到抽水機  目前持續抽水中)",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721911380000)\/",
+        "MODIFY_DATE": "\/Date(1721911380000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/200bd213-5ec5-4635-87d0-7bb4ef785783.png",
+        "MinX": 120.28596410458,
+        "MaxX": 120.28880152963299,
+        "MinY": 22.6211655517079,
+        "MaxY": 22.623336155704198
+    },
+    "GridId": 2306,
+    "Area": 18850,
+    "Z_D": 1.37,
+    "EffectAddress": "",
+    "EffectAddressCount": 159,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 159,
+        "TotalArea": 18850,
+        "TotalHouse30cmUp": 92,
+        "TotalArea30cmUp": 10400,
+        "TotalHouse50cmUp": 2,
+        "TotalArea50cmUp": 250
+    },
+    "Land": [
+        {
+            "Id": "G",
+            "Area": 12275
+        },
+        {
+            "Id": "E",
+            "Area": 6350
+        },
+        {
+            "Id": "L",
+            "Area": 150
+        },
+        {
+            "Id": "I",
+            "Area": 75
+        }
+    ]
+}

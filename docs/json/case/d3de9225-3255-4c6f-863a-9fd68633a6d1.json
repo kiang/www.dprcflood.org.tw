@@ -1,0 +1,68 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "d3de9225-3255-4c6f-863a-9fd68633a6d1",
+        "Org_Name": "第六河川分署",
+        "Sources": "2",
+        "EMIS_No": "042024057007890",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "鼓山區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721866860000)\/",
+        "LOCATION_DESCRIPTION": "高雄市鼓山區河川街87號",
+        "Described": "積水15公分",
+        "DEPTH": 15,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721917800000)\/",
+        "Contact": null,
+        "X": 120.283465,
+        "Y": 22.63584,
+        "SITUATION_NOTE": "積水15公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721866860000)\/",
+        "MODIFY_DATE": "\/Date(1721866860000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/d3de9225-3255-4c6f-863a-9fd68633a6d1.png",
+        "MinX": 120.28312251022001,
+        "MaxX": 120.28347693151099,
+        "MinY": 22.6357708516265,
+        "MaxY": 22.636101014357
+    },
+    "GridId": 2755,
+    "Area": 325,
+    "Z_D": 1.68,
+    "EffectAddress": "",
+    "EffectAddressCount": 1,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 1,
+        "TotalArea": 325,
+        "TotalHouse30cmUp": 0,
+        "TotalArea30cmUp": 100,
+        "TotalHouse50cmUp": 0,
+        "TotalArea50cmUp": 25
+    },
+    "Land": [
+        {
+            "Id": "G",
+            "Area": 325
+        }
+    ]
+}

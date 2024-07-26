@@ -1,0 +1,92 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "1ca4077e-7b17-4eaf-9631-5c07fd3ca013",
+        "Org_Name": "第六河川分署",
+        "Sources": "2",
+        "EMIS_No": "042024057009592",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "左營區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721871900000)\/",
+        "LOCATION_DESCRIPTION": "高雄市左營區文寧街重光路72巷",
+        "Described": "新光里曹公濬滿水外溢，文寧街重光路72巷原生植物園淹水約30公分",
+        "DEPTH": 30,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721916000000)\/",
+        "Contact": null,
+        "X": 120.302931,
+        "Y": 22.681571,
+        "SITUATION_NOTE": "新光里曹公濬滿水外溢，文寧街重光路72巷原生植物園淹水約30公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721871900000)\/",
+        "MODIFY_DATE": "\/Date(1721871900000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/1ca4077e-7b17-4eaf-9631-5c07fd3ca013.png",
+        "MinX": 120.30046999396801,
+        "MaxX": 120.305187443621,
+        "MinY": 22.677166297366302,
+        "MaxY": 22.6827864464864
+    },
+    "GridId": 3967,
+    "Area": 68100,
+    "Z_D": 10.260000000000002,
+    "EffectAddress": "",
+    "EffectAddressCount": 295,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 295,
+        "TotalArea": 68100,
+        "TotalHouse30cmUp": 238,
+        "TotalArea30cmUp": 58450,
+        "TotalHouse50cmUp": 157,
+        "TotalArea50cmUp": 37875
+    },
+    "Land": [
+        {
+            "Id": "I",
+            "Area": 150
+        },
+        {
+            "Id": "E",
+            "Area": 29050
+        },
+        {
+            "Id": "G",
+            "Area": 32050
+        },
+        {
+            "Id": "F",
+            "Area": 350
+        },
+        {
+            "Id": "L",
+            "Area": 4450
+        },
+        {
+            "Id": "H",
+            "Area": 1400
+        },
+        {
+            "Id": "C",
+            "Area": 650
+        }
+    ]
+}

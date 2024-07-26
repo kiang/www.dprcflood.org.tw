@@ -1,0 +1,80 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "c3bbce14-668b-4eb8-8a72-7dcfabdf89a3",
+        "Org_Name": "經濟部水利署",
+        "Sources": "2",
+        "EMIS_No": "042024057018513",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "鹽埕區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721897520000)\/",
+        "LOCATION_DESCRIPTION": "高雄市鹽埕區大禮街69巷",
+        "Described": "積水至小腿",
+        "DEPTH": 30,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721916000000)\/",
+        "Contact": null,
+        "X": 120.287398,
+        "Y": 22.622357,
+        "SITUATION_NOTE": "積水至小腿",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721897520000)\/",
+        "MODIFY_DATE": "\/Date(1721897520000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/c3bbce14-668b-4eb8-8a72-7dcfabdf89a3.png",
+        "MinX": 120.28596410458,
+        "MaxX": 120.288850862871,
+        "MinY": 22.6211655517079,
+        "MaxY": 22.623336155704198
+    },
+    "GridId": 2306,
+    "Area": 21825,
+    "Z_D": 1.43,
+    "EffectAddress": "",
+    "EffectAddressCount": 176,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 176,
+        "TotalArea": 21825,
+        "TotalHouse30cmUp": 135,
+        "TotalArea30cmUp": 15500,
+        "TotalHouse50cmUp": 7,
+        "TotalArea50cmUp": 975
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 6950
+        },
+        {
+            "Id": "G",
+            "Area": 14600
+        },
+        {
+            "Id": "L",
+            "Area": 200
+        },
+        {
+            "Id": "I",
+            "Area": 75
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "aa66f9af-334e-4535-8c82-3add50c2202b",
+        "Org_Name": "第六河川分署",
+        "Sources": "25",
+        "EMIS_No": "文昌路與文化路口",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "鳳山區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721871000000)\/",
+        "LOCATION_DESCRIPTION": "文昌路與文化路口",
+        "Described": "目前感測值0公分",
+        "DEPTH": 31,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721877000000)\/",
+        "Contact": null,
+        "X": 120.35341,
+        "Y": 22.63421,
+        "SITUATION_NOTE": "目前感測值0公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721871000000)\/",
+        "MODIFY_DATE": "\/Date(1721871000000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "7"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/aa66f9af-334e-4535-8c82-3add50c2202b.png",
+        "MinX": 120.34987230760801,
+        "MaxX": 120.354597139801,
+        "MinY": 22.6327224165999,
+        "MaxY": 22.6373806809609
+    },
+    "GridId": 2802,
+    "Area": 25775,
+    "Z_D": 12.790000000000001,
+    "EffectAddress": "",
+    "EffectAddressCount": 85,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 85,
+        "TotalArea": 25775,
+        "TotalHouse30cmUp": 40,
+        "TotalArea30cmUp": 16025,
+        "TotalHouse50cmUp": 5,
+        "TotalArea50cmUp": 6550
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 13850
+        },
+        {
+            "Id": "G",
+            "Area": 8775
+        },
+        {
+            "Id": "C",
+            "Area": 2050
+        },
+        {
+            "Id": "D",
+            "Area": 50
+        },
+        {
+            "Id": "H",
+            "Area": 125
+        },
+        {
+            "Id": "L",
+            "Area": 900
+        },
+        {
+            "Id": "I",
+            "Area": 25
+        }
+    ]
+}

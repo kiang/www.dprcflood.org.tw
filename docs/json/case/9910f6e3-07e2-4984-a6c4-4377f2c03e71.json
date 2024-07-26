@@ -1,0 +1,80 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "9910f6e3-07e2-4984-a6c4-4377f2c03e71",
+        "Org_Name": "第六河川分署",
+        "Sources": "2",
+        "EMIS_No": "162024057007209",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "前金區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721864400000)\/",
+        "LOCATION_DESCRIPTION": "光復三街（與河東路交接處）馬路淹水約5～10公分高",
+        "Described": "請水利局知悉，淹水水位越來越高，光復三街（與河東路交接處）馬路淹水約10公分高，住戶屋後水溝都滿水位，水要淹進大樓裡面的",
+        "DEPTH": 10,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721913600000)\/",
+        "Contact": null,
+        "X": 120.2944217,
+        "Y": 22.6269905,
+        "SITUATION_NOTE": "請水利局知悉，淹水水位越來越高，光復三街（與河東路交接處）馬路淹水約10公分高，住戶屋後水溝都滿水位，水要淹進大樓裡面的",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721864400000)\/",
+        "MODIFY_DATE": "\/Date(1721864400000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/9910f6e3-07e2-4984-a6c4-4377f2c03e71.png",
+        "MinX": 120.292307545271,
+        "MaxX": 120.29650855859299,
+        "MinY": 22.6257104059965,
+        "MaxY": 22.6291115561863
+    },
+    "GridId": 2507,
+    "Area": 16250,
+    "Z_D": 1.9000000000000001,
+    "EffectAddress": "",
+    "EffectAddressCount": 73,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 73,
+        "TotalArea": 16250,
+        "TotalHouse30cmUp": 42,
+        "TotalArea30cmUp": 5525,
+        "TotalHouse50cmUp": 0,
+        "TotalArea50cmUp": 250
+    },
+    "Land": [
+        {
+            "Id": "H",
+            "Area": 2275
+        },
+        {
+            "Id": "G",
+            "Area": 7175
+        },
+        {
+            "Id": "E",
+            "Area": 5775
+        },
+        {
+            "Id": "L",
+            "Area": 1025
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "04e83f49-3898-4027-bbf3-9ff94d67f0ca",
+        "Org_Name": "經濟部水利署",
+        "Sources": "2",
+        "EMIS_No": "042024057020753",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "岡山區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721902740000)\/",
+        "LOCATION_DESCRIPTION": "高雄市岡山區本工環東路本洲工業區內瓦斯行附近",
+        "Described": "該處淹水約有一輪胎高已影響通行",
+        "DEPTH": 50,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721914200000)\/",
+        "Contact": null,
+        "X": 120.275501,
+        "Y": 22.813564,
+        "SITUATION_NOTE": "該處淹水約有一輪胎高已影響通行",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721902740000)\/",
+        "MODIFY_DATE": "\/Date(1721902740000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/04e83f49-3898-4027-bbf3-9ff94d67f0ca.png",
+        "MinX": 120.273185205442,
+        "MaxX": 120.279686919545,
+        "MinY": 22.8096732038764,
+        "MaxY": 22.8159062301824
+    },
+    "GridId": 7009,
+    "Area": 134500,
+    "Z_D": 9.99,
+    "EffectAddress": "",
+    "EffectAddressCount": 23,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 23,
+        "TotalArea": 134500,
+        "TotalHouse30cmUp": 17,
+        "TotalArea30cmUp": 115550,
+        "TotalHouse50cmUp": 7,
+        "TotalArea50cmUp": 72975
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 21575
+        },
+        {
+            "Id": "G",
+            "Area": 61575
+        },
+        {
+            "Id": "F",
+            "Area": 1700
+        },
+        {
+            "Id": "I",
+            "Area": 12700
+        },
+        {
+            "Id": "L",
+            "Area": 16850
+        },
+        {
+            "Id": "C",
+            "Area": 20100
+        }
+    ]
+}

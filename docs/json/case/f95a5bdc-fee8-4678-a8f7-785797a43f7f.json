@@ -1,0 +1,72 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "f95a5bdc-fee8-4678-a8f7-785797a43f7f",
+        "Org_Name": "經濟部水利署",
+        "Sources": "2",
+        "EMIS_No": "042024057017781",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "苓雅區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721895660000)\/",
+        "LOCATION_DESCRIPTION": "高雄市苓雅區四維四路與苓中路口",
+        "Described": "該處淹水至小腿快要到膝蓋請人員確認愛河水閘門是否有打開",
+        "DEPTH": 30,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721914200000)\/",
+        "Contact": null,
+        "X": 120.302823,
+        "Y": 22.617087,
+        "SITUATION_NOTE": "該處淹水至小腿快要到膝蓋請人員確認愛河水閘門是否有打開",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721895660000)\/",
+        "MODIFY_DATE": "\/Date(1721895660000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/f95a5bdc-fee8-4678-a8f7-785797a43f7f.png",
+        "MinX": 120.30282018656901,
+        "MaxX": 120.30395411907399,
+        "MinY": 22.6164885644646,
+        "MaxY": 22.6174953580821
+    },
+    "GridId": 2158,
+    "Area": 7650,
+    "Z_D": 2.59,
+    "EffectAddress": "",
+    "EffectAddressCount": 0,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 0,
+        "TotalArea": 7650,
+        "TotalHouse30cmUp": 0,
+        "TotalArea30cmUp": 7425,
+        "TotalHouse50cmUp": 0,
+        "TotalArea50cmUp": 3700
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 7375
+        },
+        {
+            "Id": "G",
+            "Area": 275
+        }
+    ]
+}

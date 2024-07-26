@@ -1,0 +1,84 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "e06967ef-7985-451e-a671-00f52da14df7",
+        "Org_Name": "經濟部水利署",
+        "Sources": "2",
+        "EMIS_No": "042024057020797",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "仁武區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721902920000)\/",
+        "LOCATION_DESCRIPTION": "高雄市仁武區竹後李竹門巷108號",
+        "Described": "該處淹水至膝蓋",
+        "DEPTH": 50,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721914200000)\/",
+        "Contact": null,
+        "X": 120.335229,
+        "Y": 22.697113,
+        "SITUATION_NOTE": "該處淹水至膝蓋",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721902920000)\/",
+        "MODIFY_DATE": "\/Date(1721902920000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/e06967ef-7985-451e-a671-00f52da14df7.png",
+        "MinX": 120.333216131713,
+        "MaxX": 120.337569650915,
+        "MinY": 22.6955119259853,
+        "MaxY": 22.6991322918931
+    },
+    "GridId": 4258,
+    "Area": 47400,
+    "Z_D": 12.7,
+    "EffectAddress": "",
+    "EffectAddressCount": 0,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 0,
+        "TotalArea": 47400,
+        "TotalHouse30cmUp": 0,
+        "TotalArea30cmUp": 36850,
+        "TotalHouse50cmUp": 0,
+        "TotalArea50cmUp": 11775
+    },
+    "Land": [
+        {
+            "Id": "G",
+            "Area": 16700
+        },
+        {
+            "Id": "E",
+            "Area": 1125
+        },
+        {
+            "Id": "F",
+            "Area": 2575
+        },
+        {
+            "Id": "C",
+            "Area": 14600
+        },
+        {
+            "Id": "A",
+            "Area": 12400
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "a9c9815f-0bf5-4b54-a8b6-0bc163b6c2fd",
+        "Org_Name": "經濟部水利署",
+        "Sources": "2",
+        "EMIS_No": "042024057020276",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "岡山區",
+        "EMISTYPE": "地區積淹水",
+        "DATE": "\/Date(1721901420000)\/",
+        "LOCATION_DESCRIPTION": "高雄市岡山區劉厝路147之1號",
+        "Described": "積水40-50公分能否請軍方救助；是否有補助",
+        "DEPTH": 50,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721917200000)\/",
+        "Contact": null,
+        "X": 120.289492,
+        "Y": 22.781101,
+        "SITUATION_NOTE": "積水40-50公分能否請軍方救助；是否有補助",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721901420000)\/",
+        "MODIFY_DATE": "\/Date(1721901420000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/a9c9815f-0bf5-4b54-a8b6-0bc163b6c2fd.png",
+        "MinX": 120.285141610816,
+        "MaxX": 120.29129567208399,
+        "MinY": 22.7782003326515,
+        "MaxY": 22.7820642423058
+    },
+    "GridId": 5908,
+    "Area": 127800,
+    "Z_D": 5.97,
+    "EffectAddress": "",
+    "EffectAddressCount": 361,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 361,
+        "TotalArea": 127800,
+        "TotalHouse30cmUp": 299,
+        "TotalArea30cmUp": 111800,
+        "TotalHouse50cmUp": 159,
+        "TotalArea50cmUp": 74000
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 16400
+        },
+        {
+            "Id": "G",
+            "Area": 69325
+        },
+        {
+            "Id": "L",
+            "Area": 2325
+        },
+        {
+            "Id": "C",
+            "Area": 38225
+        },
+        {
+            "Id": "H",
+            "Area": 450
+        },
+        {
+            "Id": "D",
+            "Area": 975
+        },
+        {
+            "Id": "A",
+            "Area": 100
+        }
+    ]
+}

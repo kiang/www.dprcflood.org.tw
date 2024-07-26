@@ -1,0 +1,76 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "07f19c01-8844-48f7-aeb3-84bb6ae58bb2",
+        "Org_Name": "第六河川分署",
+        "Sources": "25",
+        "EMIS_No": "中正一路與建民路口",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "苓雅區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721861466000)\/",
+        "LOCATION_DESCRIPTION": "中正國小側門前建民路於公園轉角處",
+        "Described": "目前感測值0公分",
+        "DEPTH": 17,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721883066000)\/",
+        "Contact": null,
+        "X": 120.333693,
+        "Y": 22.628337,
+        "SITUATION_NOTE": "目前感測值0公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721861466000)\/",
+        "MODIFY_DATE": "\/Date(1721861466000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "7"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/07f19c01-8844-48f7-aeb3-84bb6ae58bb2.png",
+        "MinX": 120.332626339974,
+        "MaxX": 120.333761656132,
+        "MinY": 22.628086254125,
+        "MaxY": 22.6287733347623
+    },
+    "GridId": 2497,
+    "Area": 1425,
+    "Z_D": 7.97,
+    "EffectAddress": "",
+    "EffectAddressCount": 0,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 0,
+        "TotalArea": 1425,
+        "TotalHouse30cmUp": 0,
+        "TotalArea30cmUp": 675,
+        "TotalHouse50cmUp": 0,
+        "TotalArea50cmUp": 0
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 1200
+        },
+        {
+            "Id": "G",
+            "Area": 150
+        },
+        {
+            "Id": "I",
+            "Area": 75
+        }
+    ]
+}

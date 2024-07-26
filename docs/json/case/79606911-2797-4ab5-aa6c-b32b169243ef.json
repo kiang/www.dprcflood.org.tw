@@ -1,0 +1,92 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "79606911-2797-4ab5-aa6c-b32b169243ef",
+        "Org_Name": "第六河川分署",
+        "Sources": "2",
+        "EMIS_No": "042024057006201",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "美濃區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721858880000)\/",
+        "LOCATION_DESCRIPTION": "高雄市美濃區美中路260號區公所前道路淹水",
+        "Described": "積水20-30公分",
+        "DEPTH": 30,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721901600000)\/",
+        "Contact": null,
+        "X": 120.54178,
+        "Y": 22.894825,
+        "SITUATION_NOTE": "積水20-30公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721858880000)\/",
+        "MODIFY_DATE": "\/Date(1721858880000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/79606911-2797-4ab5-aa6c-b32b169243ef.png",
+        "MinX": 120.54001152430301,
+        "MaxX": 120.542855100867,
+        "MinY": 22.8941394871797,
+        "MaxY": 22.8971301251656
+    },
+    "GridId": 10273,
+    "Area": 48875,
+    "Z_D": 48.189999,
+    "EffectAddress": "",
+    "EffectAddressCount": 16,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 16,
+        "TotalArea": 48875,
+        "TotalHouse30cmUp": 13,
+        "TotalArea30cmUp": 47600,
+        "TotalHouse50cmUp": 11,
+        "TotalArea50cmUp": 43475
+    },
+    "Land": [
+        {
+            "Id": "L",
+            "Area": 27500
+        },
+        {
+            "Id": "C",
+            "Area": 13275
+        },
+        {
+            "Id": "G",
+            "Area": 1300
+        },
+        {
+            "Id": "I",
+            "Area": 1175
+        },
+        {
+            "Id": "E",
+            "Area": 2425
+        },
+        {
+            "Id": "H",
+            "Area": 3125
+        },
+        {
+            "Id": "F",
+            "Area": 75
+        }
+    ]
+}

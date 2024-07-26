@@ -1,0 +1,88 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "d9353adf-72d6-4092-b7b2-d4d5a46dd2db",
+        "Org_Name": "經濟部水利署",
+        "Sources": "2",
+        "EMIS_No": "042024057017102",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "三民區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721893800000)\/",
+        "LOCATION_DESCRIPTION": "高雄市三民區本館里大豐一路與大裕路交叉口",
+        "Described": "周邊積水已逾膝蓋高度即將淹入室內建請查處",
+        "DEPTH": 50,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721916000000)\/",
+        "Contact": null,
+        "X": 120.331202,
+        "Y": 22.653586,
+        "SITUATION_NOTE": "周邊積水已逾膝蓋高度即將淹入室內建請查處",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721893800000)\/",
+        "MODIFY_DATE": "\/Date(1721893800000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/d9353adf-72d6-4092-b7b2-d4d5a46dd2db.png",
+        "MinX": 120.328276842365,
+        "MaxX": 120.333878362742,
+        "MinY": 22.6522706225688,
+        "MaxY": 22.6560015875551
+    },
+    "GridId": 3364,
+    "Area": 133750,
+    "Z_D": 8.01,
+    "EffectAddress": "",
+    "EffectAddressCount": 899,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 899,
+        "TotalArea": 133750,
+        "TotalHouse30cmUp": 815,
+        "TotalArea30cmUp": 123750,
+        "TotalHouse50cmUp": 588,
+        "TotalArea50cmUp": 93575
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 50875
+        },
+        {
+            "Id": "G",
+            "Area": 77550
+        },
+        {
+            "Id": "L",
+            "Area": 2525
+        },
+        {
+            "Id": "H",
+            "Area": 500
+        },
+        {
+            "Id": "C",
+            "Area": 1775
+        },
+        {
+            "Id": "I",
+            "Area": 525
+        }
+    ]
+}

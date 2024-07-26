@@ -1,0 +1,72 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "f65c18f4-daa6-4d33-b304-e0d1bec7c541",
+        "Org_Name": "第六河川分署",
+        "Sources": "25",
+        "EMIS_No": "大新路與大正街交口",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "大社區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721867940000)\/",
+        "LOCATION_DESCRIPTION": "大新路與大正街交口",
+        "Described": "目前感測值0公分",
+        "DEPTH": 83,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721890800000)\/",
+        "Contact": null,
+        "X": 120.349027,
+        "Y": 22.725101,
+        "SITUATION_NOTE": "目前感測值0公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721867940000)\/",
+        "MODIFY_DATE": "\/Date(1721867940000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "7"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/f65c18f4-daa6-4d33-b304-e0d1bec7c541.png",
+        "MinX": 120.348611938757,
+        "MaxX": 120.34969737812999,
+        "MinY": 22.7245517318499,
+        "MaxY": 22.7252002617367
+    },
+    "GridId": 4655,
+    "Area": 4450,
+    "Z_D": 18.68,
+    "EffectAddress": "",
+    "EffectAddressCount": 14,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 14,
+        "TotalArea": 4450,
+        "TotalHouse30cmUp": 14,
+        "TotalArea30cmUp": 4450,
+        "TotalHouse50cmUp": 14,
+        "TotalArea50cmUp": 4400
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 2625
+        },
+        {
+            "Id": "G",
+            "Area": 1825
+        }
+    ]
+}

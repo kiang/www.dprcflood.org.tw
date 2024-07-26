@@ -1,0 +1,92 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "655b7d9d-de30-43d0-b235-10166a50e52a",
+        "Org_Name": "經濟部水利署",
+        "Sources": "2",
+        "EMIS_No": "042024057024282",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "鳳山區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721911200000)\/",
+        "LOCATION_DESCRIPTION": "高雄市鳳山區鳳松路450巷318號前至東豐巷路口",
+        "Described": "路口淹水已有車滅頂，請協助拉封鎖線，避免民眾進入",
+        "DEPTH": 150,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721913600000)\/",
+        "Contact": null,
+        "X": 120.370035,
+        "Y": 22.648429,
+        "SITUATION_NOTE": "路口淹水已有車滅頂，請協助拉封鎖線，避免民眾進入",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721911200000)\/",
+        "MODIFY_DATE": "\/Date(1721911200000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/655b7d9d-de30-43d0-b235-10166a50e52a.png",
+        "MinX": 120.368531889801,
+        "MaxX": 120.374289495581,
+        "MinY": 22.646652446234,
+        "MaxY": 22.6494823290133
+    },
+    "GridId": 3182,
+    "Area": 99850,
+    "Z_D": 16.740000000000002,
+    "EffectAddress": "",
+    "EffectAddressCount": 146,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 146,
+        "TotalArea": 99850,
+        "TotalHouse30cmUp": 146,
+        "TotalArea30cmUp": 99825,
+        "TotalHouse50cmUp": 146,
+        "TotalArea50cmUp": 99675
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 8950
+        },
+        {
+            "Id": "L",
+            "Area": 36475
+        },
+        {
+            "Id": "I",
+            "Area": 5675
+        },
+        {
+            "Id": "C",
+            "Area": 25600
+        },
+        {
+            "Id": "D",
+            "Area": 2500
+        },
+        {
+            "Id": "G",
+            "Area": 13275
+        },
+        {
+            "Id": "A",
+            "Area": 7375
+        }
+    ]
+}

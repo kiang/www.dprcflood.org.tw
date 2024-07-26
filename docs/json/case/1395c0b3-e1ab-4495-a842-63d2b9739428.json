@@ -1,0 +1,88 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "1395c0b3-e1ab-4495-a842-63d2b9739428",
+        "Org_Name": "第六河川分署",
+        "Sources": "25",
+        "EMIS_No": "中泰街55號",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "楠梓區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721854800000)\/",
+        "LOCATION_DESCRIPTION": "中泰街55號",
+        "Described": "目前感測值0公分",
+        "DEPTH": 152,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721890800000)\/",
+        "Contact": null,
+        "X": 120.28513,
+        "Y": 22.7156,
+        "SITUATION_NOTE": "目前感測值0公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721854800000)\/",
+        "MODIFY_DATE": "\/Date(1721854800000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "7"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/1395c0b3-e1ab-4495-a842-63d2b9739428.png",
+        "MinX": 120.28250689213401,
+        "MaxX": 120.286510087938,
+        "MinY": 22.714701950258302,
+        "MaxY": 22.7183314563427
+    },
+    "GridId": 4539,
+    "Area": 76950,
+    "Z_D": 4.25,
+    "EffectAddress": "",
+    "EffectAddressCount": 403,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 403,
+        "TotalArea": 76950,
+        "TotalHouse30cmUp": 403,
+        "TotalArea30cmUp": 76950,
+        "TotalHouse50cmUp": 403,
+        "TotalArea50cmUp": 76775
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 19275
+        },
+        {
+            "Id": "G",
+            "Area": 37250
+        },
+        {
+            "Id": "C",
+            "Area": 2425
+        },
+        {
+            "Id": "H",
+            "Area": 1600
+        },
+        {
+            "Id": "I",
+            "Area": 11350
+        },
+        {
+            "Id": "L",
+            "Area": 5050
+        }
+    ]
+}

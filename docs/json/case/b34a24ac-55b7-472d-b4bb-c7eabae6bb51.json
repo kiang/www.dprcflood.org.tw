@@ -1,0 +1,88 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "b34a24ac-55b7-472d-b4bb-c7eabae6bb51",
+        "Org_Name": "第六河川分署",
+        "Sources": "2",
+        "EMIS_No": "042024057010595",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "左營區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721874660000)\/",
+        "LOCATION_DESCRIPTION": "高雄市左營區左營大路345巷",
+        "Described": "積水15公分",
+        "DEPTH": 15,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721917200000)\/",
+        "Contact": null,
+        "X": 120.292754,
+        "Y": 22.687127,
+        "SITUATION_NOTE": "積水15公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721874660000)\/",
+        "MODIFY_DATE": "\/Date(1721874660000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "4"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/b34a24ac-55b7-472d-b4bb-c7eabae6bb51.png",
+        "MinX": 120.28816411004601,
+        "MaxX": 120.292649581487,
+        "MinY": 22.6849711601232,
+        "MaxY": 22.688607970592198
+    },
+    "GridId": 4065,
+    "Area": 39700,
+    "Z_D": 16.06,
+    "EffectAddress": "",
+    "EffectAddressCount": 292,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 292,
+        "TotalArea": 39700,
+        "TotalHouse30cmUp": 266,
+        "TotalArea30cmUp": 36800,
+        "TotalHouse50cmUp": 224,
+        "TotalArea50cmUp": 31700
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 12075
+        },
+        {
+            "Id": "G",
+            "Area": 24775
+        },
+        {
+            "Id": "L",
+            "Area": 1725
+        },
+        {
+            "Id": "H",
+            "Area": 675
+        },
+        {
+            "Id": "D",
+            "Area": 150
+        },
+        {
+            "Id": "I",
+            "Area": 300
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "__type": "DisasterEditorMapWeb.WS.FloodComputeWS+FloodComputeData",
+    "NOTIFICATION_Data": {
+        "__type": "DisasterEditorMapWeb.WS.FloodingClass",
+        "PK_ID": "adde2b2f-c7d6-43d7-92e1-4c12354f9bf2",
+        "Org_Name": "第六河川分署",
+        "Sources": "25",
+        "EMIS_No": "藍昌路與德民路口（德民路836號）",
+        "COUNTY_NAME": "高雄市",
+        "TOWN_NAME": "楠梓區",
+        "EMISTYPE": "道路",
+        "DATE": "\/Date(1721877600000)\/",
+        "LOCATION_DESCRIPTION": "藍昌路與德民路口（德民路836號）",
+        "Described": "目前感測值0公分",
+        "DEPTH": 37,
+        "DDispose": null,
+        "IS_RECESSION": true,
+        "Recession_DATE": "\/Date(1721881860000)\/",
+        "Contact": null,
+        "X": 120.290975,
+        "Y": 22.721715,
+        "SITUATION_NOTE": "目前感測值0公分",
+        "TREATMENT_NOTE": null,
+        "REPAIR_FUNDING": null,
+        "REHABILITATION_FUNDING": null,
+        "CREATE_DATE": "\/Date(1721877600000)\/",
+        "MODIFY_DATE": "\/Date(1721877600000)\/",
+        "Phone": null,
+        "IsTest": false,
+        "IsFromWraEMIS": true,
+        "SURVEY_AFFECT_HOUSEHOLD": null,
+        "FLOODING_LOSS": null,
+        "POLYGON_COORDINATES": null,
+        "REMARK": null,
+        "Image": "",
+        "Movie": "",
+        "SourceCode": "7"
+    },
+    "DEM_Data": "",
+    "HaveDEM_Data": true,
+    "Image_Data": {
+        "Url": "WS\/Flood\/Output\/高雄市\/202407\/images\/adde2b2f-c7d6-43d7-92e1-4c12354f9bf2.png",
+        "MinX": 120.290076107008,
+        "MaxX": 120.29135431308299,
+        "MinY": 22.7207798440356,
+        "MaxY": 22.7227393492001
+    },
+    "GridId": 4615,
+    "Area": 6475,
+    "Z_D": 5.42,
+    "EffectAddress": "",
+    "EffectAddressCount": 1,
+    "ComputeDistance": 500,
+    "AffectStat": {
+        "TotalHouse": 1,
+        "TotalArea": 6475,
+        "TotalHouse30cmUp": 1,
+        "TotalArea30cmUp": 3700,
+        "TotalHouse50cmUp": 0,
+        "TotalArea50cmUp": 375
+    },
+    "Land": [
+        {
+            "Id": "E",
+            "Area": 5475
+        },
+        {
+            "Id": "G",
+            "Area": 875
+        },
+        {
+            "Id": "H",
+            "Area": 125
+        }
+    ]
+}
